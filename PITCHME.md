@@ -1,4 +1,4 @@
-@snap[north span-80]
+@snap[north span-60]
 # Allyship 101 👍
 ### What it means to be an ally, and how to get started
 25th September 2019
@@ -13,13 +13,15 @@ https://gitpitch.com/NuclearError/allyship101
 
 @title[About]
 
-@snap[north span-100]
+@snap[north span-80]
 ## About this Lunch n Learn
-#### It turns out trying to squash huge complex issues into 1 hour is tricky
+#### It turns out trying to condense complex issues into a 1 hour presentation is tricky
+@snapend
 
+@snap[north span-100]
 * This presentation is a beginner's intro to allyship
 * The slides are full of clickable links to further reading material
-* You're strongly encouraged to do further reading afterwards
+* You're strongly encouraged to do your own research and further reading
 @snapend
 
 @snap[south-west span-50]
