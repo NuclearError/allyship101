@@ -18,7 +18,7 @@ https://gitpitch.com/NuclearError/allyship101
 #### It turns out trying to condense complex issues into a 1 hour presentation is tricky
 @snapend
 
-@snap[north span-100]
+@snap[midpoint span-100]
 * This presentation is a beginner's intro to allyship
 * The slides are full of clickable links to further reading material
 * You're strongly encouraged to do your own research and further reading
@@ -26,29 +26,30 @@ https://gitpitch.com/NuclearError/allyship101
 
 @snap[south-west span-50]
 Further reading:
-http://www.google.com
-http://www.google.be
+http://www.guidetoallyship.com/
 @snapend
 
 ---
 
-@title[About]
+@title[What is an ally?]
 
-@snap[north span-100]
-# This is a H1 bitches
-## This is a H2 tho
-### Yup, dis a H3 bish
-#### Lol, this is a H4
+@snap[north span-80]
+## What is an ally?
+#### A person demonstrating active, explicit, and meaningful support for marginalised and/or vulnerable groups
+@snapend
 
-This is a regular degular paragraph text bitches. This is a regular degular paragraph text bitches.
-
-* This presentation is a beginner's intro to allyship
-* The slides are full of clickable links to further reading material
-* You're strongly encouraged to do further reading afterwards
+@snap[midpoint span-80]
+## What is a marginalised group or individual? 
+#### Someone who is placed at a disadvantage by society, because of who they are
 @snapend
 
 @snap[south-west span-50]
 Further reading:
-http://www.google.com
-http://www.google.be
+https://en.m.wikipedia.org/wiki/Social_exclusion
+https://en.m.wikipedia.org/wiki/Social_exclusion
+https://www.themuse.com/advice/what-is-an-ally-7-examples
+https://medium.com/taking-note/how-to-be-an-ally-in-the-office-4d49535370c8
+https://goodmenproject.com/ethics-values/30-ways-to-be-a-better-ally-hesaid/
 @snapend
+
+---
