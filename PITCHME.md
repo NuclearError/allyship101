@@ -37,8 +37,6 @@ http://www.google.be
 ## This is a H2 tho
 ### Yup, dis a H3 bish
 #### Lol, this is a H4
-##### H5 you guessed it
-###### oh fuck off ofc this is h6
 
 This is a regular degular paragraph text bitches. This is a regular degular paragraph text bitches.
 

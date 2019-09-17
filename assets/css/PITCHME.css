@@ -24,16 +24,12 @@
 	font-size: 2.5rem;
 }
 
-.reveal h5 {
+.reveal p, 
+.reveal ul,
+.reveal ol, 
+.reveal dl,
+.reveal li {
 	font-size: 2rem;
-}
-
-.reveal h6 {
-	font-size: 1.5rem;
-}
-
-.reveal p {
-	font-size: 20px;
 }
 
 @font-face {
