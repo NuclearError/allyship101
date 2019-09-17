@@ -1,6 +1,8 @@
+@snap[north span-90]
 ## Allyship 101 👍
 ### What it means to be an ally, and how to get started
-#### 25th September 2019
+25th September 2019
+@snapend
 
 @snap[south span-75]
 Slides available here:
