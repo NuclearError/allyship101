@@ -45,10 +45,10 @@ Someone who is placed at a disadvantage by society, because of who they are
 
 @snap[south-west span-100]
 Further reading:
-[https://en.m.wikipedia.org/wiki/Social_exclusion](Types of marginalisation and social exclusion)
-[https://www.themuse.com/advice/what-is-an-ally-7-examples](7 examples of being an ally in the workplace)
-[https://medium.com/taking-note/how-to-be-an-ally-in-the-office-4d49535370c8](How to be an ally in the office)
-[https://goodmenproject.com/ethics-values/30-ways-to-be-a-better-ally-hesaid/](30 ways to be a better ally)
+[Types of marginalisation and social exclusion](https://en.m.wikipedia.org/wiki/Social_exclusion)
+[7 examples of being an ally in the workplace](https://www.themuse.com/advice/what-is-an-ally-7-examples)
+[How to be an ally in the office](https://medium.com/taking-note/how-to-be-an-ally-in-the-office-4d49535370c8)
+[30 ways to be a better ally](https://goodmenproject.com/ethics-values/30-ways-to-be-a-better-ally-hesaid/)
 @snapend
 
 ---
