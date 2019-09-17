@@ -1,15 +1,17 @@
-html, body {
-	margin: 0;
-	padding: 0;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-  }
+.reveal h1, 
+.reveal h2,
+.reveal h3, 
+.reveal h4,
+.reveal h5, 
+.reveal h6 {
+	font-family: 'Overpass Light', sans-serif;
+}
 
 @font-face {
-	font-family: 'overpass light';
+	font-family: 'Overpass Light';
 	src: local("overpass"),
 		 local("Overpass"),
-		 local("Overpass Light"),
+		 local("overpass light"),
 		 local("overpass-light"),
 		 local("Overpass-Light"),
 		 url(../fonts/overpass-light.otf);
