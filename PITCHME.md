@@ -10,4 +10,4 @@
 * content stuff
 
 #### Further reading:
-[This is a link](http://www.google.com)
+http://www.google.com
