@@ -9,5 +9,5 @@
 * content stuff
 * content stuff
 
-#### Further reading:
+Further reading:
 http://www.google.com
