@@ -8,6 +8,18 @@
 	letter-spacing: -2px;
 }
 
+.reveal h1 {
+	font-size: 6rem;
+}
+
+.reveal h2 {
+	font-size: 4rem;
+}
+
+.reveal h3 {
+	font-size: 3rem;
+}
+
 @font-face {
 	font-family: 'Overpass Light';
 	src: local("overpass"),
