@@ -5,6 +5,7 @@
 .reveal h5, 
 .reveal h6 {
 	font-family: 'Overpass Light', sans-serif;
+	letter-spacing: -2px;
 }
 
 @font-face {
