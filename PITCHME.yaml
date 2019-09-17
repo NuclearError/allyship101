@@ -1,3 +1,5 @@
+title: "Allyship 101: What it means to be an ally and how to do it right"
+
 # Layout
 layout : center-left
 
@@ -18,7 +20,11 @@ theme-override : assets/css/PITCHME.css
 highlight : ir-black
 
 # Behavior
-transition : none
+transition : slide
 published : true
 
 # Plugins
+
+# Footnotes
+
+footnote : "<a href='#/2'>ACME Dynamite Free Trial!</a>"
