@@ -17,10 +17,9 @@ theme-controls   : [ "#76787B" ]
 theme-margins    : [ "0", "15px" ]
 
 theme-override : assets/css/PITCHME.css
-highlight : ir-black
 
 # Behavior
-transition : slide
+transition : none
 published : true
 
 # Plugins
