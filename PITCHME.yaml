@@ -8,8 +8,8 @@ layout : center
 theme            : template
 
 theme-background : [ "#FFF" ]
-theme-headline   : [ "Bubblegum", "#5289F7", "none" ]
-theme-byline     : [ "Bubblegum", "#111111", "none" ]
+theme-headline   : [ "Overpass Light", "#5289F7", "none" ]
+theme-byline     : [ "Overpass Light", "#111111", "none" ]
 theme-text       : [ "Roboto", "#1C1C1C", "none" ]
 theme-links      : [ "#5289F7", "#5254F7" ]
 theme-code       : [ "Source Code Pro" ]

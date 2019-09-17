@@ -1,0 +1,17 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  }
+
+@font-face {
+	font-family: 'overpass light';
+	src: local("overpass"),
+		 local("Overpass"),
+		 local("Overpass Light"),
+		 local("overpass-light"),
+		 local("Overpass-Light"),
+		 url(../fonts/overpass-light.otf);
+	font-weight: normal;
+  }
