@@ -1,22 +1,23 @@
-## Title page 👍
-### Date, time
-#### slides will be available online afterwards
+## Allyship 101 👍
+### What it means to be an ally, and how to get started
+#### 25th September 2019
 
 @snap[south span-75]
-Some other stuff down here
+Slides available here:
+https://gitpitch.com/NuclearError/allyship101
 @snapend
 
 ---
 
-@title[Title for contents list]
+@title[About]
 
 @snap[north span-100]
-## Slide 1
-#### subtitle
+## About this Lunch n Learn
+#### It turns out trying to squash huge complex issues into 1 hour is tricky
 
-Regular content text.
-* content stuff
-* content stuff
+* This presentation is a beginner's intro to allyship
+* The slides are full of clickable links to further reading material
+* You're strongly encouraged to do further reading afterwards
 @snapend
 
 @snap[south-west span-50]
