@@ -18,3 +18,9 @@
 		 url(../fonts/overpass-light.otf);
 	font-weight: normal;
   }
+
+.south-west p {
+	margin: 0;
+	font-size: 1.75rem;
+	line-height: 2.5rem;
+}

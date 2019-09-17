@@ -22,4 +22,5 @@ Regular content text.
 @snap[south-west span-50]
 Further reading:
 http://www.google.com
+http://www.google.be
 @snapend
