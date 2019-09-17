@@ -24,7 +24,3 @@ transition : slide
 published : true
 
 # Plugins
-
-# Footnotes
-
-footnote : "<a href='#/2'>ACME Dynamite Free Trial!</a>"

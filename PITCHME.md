@@ -10,8 +10,10 @@
 * content stuff
 * content stuff
 
-Further reading:
-http://www.google.com
+@snap[south-west span-50]
+	Further reading:
+	http://www.google.com
+@snapend
 
 ---
 
@@ -21,5 +23,7 @@ http://www.google.com
 * content stuff
 * content stuff
 
-Further reading:
-http://www.google.com
+@snap[south-west span-50]
+	Further reading:
+	http://www.google.com
+@snapend
