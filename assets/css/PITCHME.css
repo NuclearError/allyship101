@@ -9,7 +9,7 @@
 }
 
 .reveal h1 {
-	font-size: 6rem;
+	font-size: 5rem;
 }
 
 .reveal h2 {
@@ -18,6 +18,22 @@
 
 .reveal h3 {
 	font-size: 3rem;
+}
+
+.reveal h4 {
+	font-size: 2.5rem;
+}
+
+.reveal h5 {
+	font-size: 2rem;
+}
+
+.reveal h6 {
+	font-size: 1.5rem;
+}
+
+.reveal p {
+	font-size: 20px;
 }
 
 @font-face {
