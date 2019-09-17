@@ -20,8 +20,10 @@ http://www.google.com
 @title[Title for contents list]
 ## Slide 2
 
+@snap[north-west span-10-]
 * content stuff
 * content stuff
+@snapend
 
 @snap[south-west span-50]
 Further reading:
