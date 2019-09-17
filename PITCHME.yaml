@@ -9,9 +9,9 @@ theme            : template
 
 theme-background : [ "#FFF5DB" ]
 theme-headline   : [ "Overpass Light", "#01AADA", "none" ]
-theme-byline     : [ "Overpass Light", "#B80C09", "none" ]
+theme-byline     : [ "Overpass Light", "#E24A7D", "none" ]
 theme-text       : [ "Roboto", "#263544", "none" ]
-theme-links      : [ "#01BAEF", "#01AADA" ]
+theme-links      : [ "#01AADA", "#01556D" ]
 theme-code       : [ "Source Code Pro" ]
 theme-controls   : [ "#76787B" ]
 theme-margins    : [ "0", "15px" ]

@@ -2,25 +2,19 @@
 ### Date, time
 #### slides will be available online afterwards
 
----
-
-@title[Title for contents list]
-## Slide 1
-
-* content stuff
-* content stuff
-
-@snap[south-west span-50]
-Further reading:
-http://www.google.com
+@snap[south span-75]
+Some other stuff down here
 @snapend
 
 ---
 
 @title[Title for contents list]
 
-@snap[north span-10-]
-## Slide 2
+@snap[north span-100]
+## Slide 1
+#### subtitle
+
+Regular content text.
 * content stuff
 * content stuff
 @snapend
