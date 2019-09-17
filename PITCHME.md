@@ -26,30 +26,29 @@ https://gitpitch.com/NuclearError/allyship101
 
 @snap[south-west span-50]
 Further reading:
-http://www.guidetoallyship.com/
+[http://www.guidetoallyship.com/](www.guidetoallyship.com)
 @snapend
 
 ---
 
 @title[What is an ally?]
 
-@snap[north span-80]
-## What is an ally?
-#### A person demonstrating active, explicit, and meaningful support for marginalised and/or vulnerable groups
+@snap[north span-100]
+#### What is an ally?  
+A person demonstrating active, explicit, and meaningful support for marginalised and/or vulnerable groups
 @snapend
 
-@snap[midpoint span-80]
-## What is a marginalised group or individual? 
-#### Someone who is placed at a disadvantage by society, because of who they are
+@snap[midpoint span-100]
+#### What is a marginalised group or individual?   
+Someone who is placed at a disadvantage by society, because of who they are
 @snapend
 
-@snap[south-west span-50]
+@snap[south-west span-100]
 Further reading:
-https://en.m.wikipedia.org/wiki/Social_exclusion
-https://en.m.wikipedia.org/wiki/Social_exclusion
-https://www.themuse.com/advice/what-is-an-ally-7-examples
-https://medium.com/taking-note/how-to-be-an-ally-in-the-office-4d49535370c8
-https://goodmenproject.com/ethics-values/30-ways-to-be-a-better-ally-hesaid/
+[https://en.m.wikipedia.org/wiki/Social_exclusion](Types of marginalisation and social exclusion)
+[https://www.themuse.com/advice/what-is-an-ally-7-examples](7 examples of being an ally in the workplace)
+[https://medium.com/taking-note/how-to-be-an-ally-in-the-office-4d49535370c8](How to be an ally in the office)
+[https://goodmenproject.com/ethics-values/30-ways-to-be-a-better-ally-hesaid/](30 ways to be a better ally)
 @snapend
 
 ---
