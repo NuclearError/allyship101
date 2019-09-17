@@ -1,4 +1,4 @@
-## Title page
+## Title page 👍
 ### Date, time
 #### slides will be available online afterwards
 
