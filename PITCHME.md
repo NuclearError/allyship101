@@ -66,10 +66,6 @@ Some types of difference will lead to societal disadvantages (**oppression**)
 Some differences will lead to societal advantages (**privilege**)
 @snapend
 
-@snap[midpoint span-90]
-#### The above is reductive; further reading highly recommended!
-@snapend
-
 @snap[south-west span-100]
 Further reading:
 [Dictionary definition of intersectionality](https://www.dictionary.com/browse/intersectionality)
@@ -78,18 +74,15 @@ Further reading:
 
 ---
 
-@title[Intersectionality and allyship]
+@title[Privilege and Oppression]
 
 @snap[north span-90]
-#### How does intersectionality, privilege, and oppression, relate to being an ally? 
+#### Privilege and Oppression 
 
-* It is possible to exist as a person who is both privileged and oppressed at the same time.
-* Being privileged (or oppressed!) is not a comment on you as a person. It is about how society treats / perceives you. 
-* Privilege can be invisible: those who are privileged are often unaware of its existence until it is pointed out.
-@snapend
-
-@snap[midpoint span-90]
-#### Being aware of privilege and oppression vectors in yourself and those around you is necessary to function as an ally
+* Privilege is the other side of oppression
+* Being privileged is not a comment on you as a person. It is about how society treats / perceives you. 
+* Privilege can be invisible: it is easy to be unaware of your own privilege until it is made externally obvious
+* It is possible to exist as a person who is both privileged and oppressed at the same time
 @snapend
 
 @snap[south-west span-100]
@@ -101,3 +94,22 @@ Further reading:
 @snapend
 
 ---
+
+@title[Intersectionality and allyship]
+
+@snap[north span-90]
+#### How does intersectionality, privilege, and oppression, relate to being an ally? 
+
+Being aware of privilege and oppression vectors in yourself and those around you is necessary to function as an ally
+@snapend
+
+
+@snap[south-west span-100]
+Further reading:
+[Privilege 101: a quick and dirty guide](https://everydayfeminism.com/2014/09/what-is-privilege/)
+[Intersectionality and invisible privilege](http://www.petrieinventory.com/intersectionality-and-invisible-privilege-class-gender-race)
+[Gender equality and invisible privilege in the workplace](https://www.theguardian.com/sustainable-business/2016/jun/08/workplace-gender-equality-invisible-privilege)
+[What is white privilege?](https://everydayfeminism.com/2017/06/about-white-privilege-best-of-ef/)
+@snapend
+
+--
