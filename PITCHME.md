@@ -53,13 +53,11 @@ Further reading:
 
 ---
 
----
-
 @title[What is intersectionality?]
 
-@snap[north span-90]
+@snap[north span-100]
 #### What is intersectionality?  
-Everyone occupies different social and cultural 'spaces' based on their differences, eg. age, race, class, gender, education level etc.
+Everyone occupies different social and cultural 'spaces' (vectors) based on their differences, eg. age, race, class, gender, education etc.
 
 Some types of difference will lead to societal disadvantages (**oppression**)
 
@@ -76,13 +74,13 @@ Further reading:
 
 @title[Privilege and Oppression]
 
-@snap[north span-90]
+@snap[north span-100]
 #### Privilege and Oppression 
 
 * Privilege is the other side of oppression
-* Being privileged is not a comment on you as a person. It is about how society treats / perceives you. 
-* Privilege can be invisible: it is easy to be unaware of your own privilege until it is made externally obvious
-* It is possible to exist as a person who is both privileged and oppressed at the same time
+* Being privileged is not a comment on you as a person: privilege doesn't mean 'bad'
+* Privilege can be invisible: it is easy to be unaware of your own privileges
+* You can be both privileged and oppressed at the same time, in different ways
 @snapend
 
 @snap[south-west span-100]
