@@ -32,6 +32,20 @@
 	font-size: 2rem;
 }
 
+.south-west p {
+	margin: 0;
+	font-size: 1.75rem;
+	line-height: 2.5rem;
+}
+
+.reveal ul, .reveal ol {
+	margin-top: 2rem;
+}
+
+.reveal li {
+	line-height: 3.5rem;
+}
+
 @font-face {
 	font-family: 'Overpass Light';
 	src: local("overpass"),
@@ -43,8 +57,3 @@
 	font-weight: normal;
   }
 
-.south-west p {
-	margin: 0;
-	font-size: 1.75rem;
-	line-height: 2.5rem;
-}

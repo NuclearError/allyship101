@@ -33,22 +33,71 @@ Further reading:
 
 @title[What is an ally?]
 
-@snap[north span-100]
+@snap[north span-90]
 #### What is an ally?  
 A person demonstrating active, explicit, and meaningful support for marginalised and/or vulnerable groups
 @snapend
 
-@snap[midpoint span-100]
+@snap[midpoint span-90]
 #### What is a marginalised group or individual?   
-Someone who is placed at a disadvantage by society, because of who they are
+Someone who is placed at a disadvantage in society, because of who they are
 @snapend
 
 @snap[south-west span-100]
 Further reading:
 [Types of marginalisation and social exclusion](https://en.m.wikipedia.org/wiki/Social_exclusion)
-[7 examples of being an ally in the workplace](https://www.themuse.com/advice/what-is-an-ally-7-examples)
 [How to be an ally in the office](https://medium.com/taking-note/how-to-be-an-ally-in-the-office-4d49535370c8)
+[7 different types of allyship in the workplace](https://www.themuse.com/advice/what-is-an-ally-7-examples)
 [30 ways to be a better ally](https://goodmenproject.com/ethics-values/30-ways-to-be-a-better-ally-hesaid/)
+@snapend
+
+---
+
+---
+
+@title[What is intersectionality?]
+
+@snap[north span-90]
+#### What is intersectionality?  
+Everyone occupies different social and cultural 'spaces' based on their differences, eg. age, race, class, gender, education level etc.
+
+Some types of difference will lead to societal disadvantages (**oppression**)
+
+Some differences will lead to societal advantages (**privilege**)
+@snapend
+
+@snap[midpoint span-90]
+#### The above is reductive; further reading highly recommended!
+@snapend
+
+@snap[south-west span-100]
+Further reading:
+[Dictionary definition of intersectionality](https://www.dictionary.com/browse/intersectionality)
+[Intersectionality entry on wikipedia](https://en.wikipedia.org/wiki/Intersectionality)
+@snapend
+
+---
+
+@title[Intersectionality and allyship]
+
+@snap[north span-90]
+#### How does intersectionality, privilege, and oppression, relate to being an ally? 
+
+* It is possible to exist as a person who is both privileged and oppressed at the same time.
+* Being privileged (or oppressed!) is not a comment on you as a person. It is about how society treats / perceives you. 
+* Privilege can be invisible: those who are privileged are often unaware of its existence until it is pointed out.
+@snapend
+
+@snap[midpoint span-90]
+#### Being aware of privilege and oppression vectors in yourself and those around you is necessary to function as an ally
+@snapend
+
+@snap[south-west span-100]
+Further reading:
+[Privilege 101: a quick and dirty guide](https://everydayfeminism.com/2014/09/what-is-privilege/)
+[Intersectionality and invisible privilege](http://www.petrieinventory.com/intersectionality-and-invisible-privilege-class-gender-race)
+[Gender equality and invisible privilege in the workplace](https://www.theguardian.com/sustainable-business/2016/jun/08/workplace-gender-equality-invisible-privilege)
+[What is white privilege?](https://everydayfeminism.com/2017/06/about-white-privilege-best-of-ef/)
 @snapend
 
 ---
