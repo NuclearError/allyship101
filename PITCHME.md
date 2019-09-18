@@ -77,10 +77,12 @@ Further reading:
 @snap[north span-100]
 #### Privilege and Oppression 
 
-* Privilege is the other side of oppression
-* Being privileged is not a comment on you as a person: privilege doesn't mean 'bad'
-* Privilege can be invisible: it is easy to be unaware of your own privileges
-* You can be both privileged and oppressed at the same time, in different ways
+Privilege ...
+* is the other side of oppression
+* doesn't mean 'bad': it's not a comment on you as a person
+* can be invisible: it is easy to be unaware of your own privileges
+
+You can be both privileged and oppressed at the same time, in different ways
 @snapend
 
 @snap[south-west span-100]
