@@ -72,17 +72,14 @@ Further reading:
 
 ---
 
-@title[Privilege and Oppression]
+@title[Privilege]
 
 @snap[north span-100]
-#### Privilege and Oppression 
+#### Privilege 
 
-Privilege ...
 * is the other side of oppression
 * doesn't mean 'bad': it's not a comment on you as a person
 * can be invisible: it is easy to be unaware of your own privileges
-
-You can be both privileged and oppressed at the same time, in different ways
 @snapend
 
 @snap[south-west span-100]
@@ -95,21 +92,47 @@ Further reading:
 
 ---
 
+@title[Oppression]
+
+@snap[north span-100]
+#### Oppression 
+
+* is the other side of privilege
+* is systemic rather than personal (like prejudice/discrimination)
+* can be hard to see: it might be well hidden, or so ubiquitous that it seems 'normal'
+
+@snapend
+
+@snap[south-west span-100]
+Further reading:
+[Oppression entry on wikipedia](https://en.m.wikipedia.org/wiki/Oppression)
+[Understanding oppression as a system](https://www.canr.msu.edu/news/understanding_oppression_and_isms_as_a_system)
+[A Muslim at Missouri University: does systemic oppression exist?](https://www.huffpost.com/entry/a-muslim-at-mizzou-does-s_b_8539080)
+[Unconscious racial biases in Britain](https://www.theguardian.com/uk-news/2018/dec/02/revealed-the-stark-evidence-of-everyday-racial-bias-in-britain)
+[Racism in the UK](https://graziadaily.co.uk/life/real-life/racism-uk/)
+@snapend
+
+---
+
 @title[Intersectionality and allyship]
 
 @snap[north span-90]
 #### How does intersectionality, privilege, and oppression, relate to being an ally? 
 
+A person can be both privileged and oppressed at the same time, in different ways
+
+Belonging to an oppressed group does not make an individual immune from oppressing others
+
+It is possible to internalise societal biases without being aware of it
+
 Being aware of privilege and oppression vectors in yourself and those around you is necessary to function as an ally
 @snapend
 
-
 @snap[south-west span-100]
 Further reading:
-[Privilege 101: a quick and dirty guide](https://everydayfeminism.com/2014/09/what-is-privilege/)
-[Intersectionality and invisible privilege](http://www.petrieinventory.com/intersectionality-and-invisible-privilege-class-gender-race)
-[Gender equality and invisible privilege in the workplace](https://www.theguardian.com/sustainable-business/2016/jun/08/workplace-gender-equality-invisible-privilege)
-[What is white privilege?](https://everydayfeminism.com/2017/06/about-white-privilege-best-of-ef/)
+
 @snapend
 
 --
+
+#### A person can be both privileged and oppressed at the same time, in different ways
