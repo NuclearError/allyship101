@@ -164,10 +164,10 @@ Further reading:
 
 @title[But I'm a GOOD person!]
 
-@snap[north span-90]
+@snap[north span-100]
 #### "But I'm not [bigotry type]! I'm a GOOD person!"
 
-"The problem can't be what **I** said. They must be too sensitive."
+"The problem can't be what *I* said. They must be too sensitive."
 
 "Well, THIS ONE TIME, something bad happened to ME ..."
 
