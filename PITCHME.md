@@ -84,9 +84,9 @@ Further reading:
 
 @snap[south-west span-100]
 Further reading:
+[Privilege entry on wikipedia](https://en.m.wikipedia.org/wiki/Social_privilege)
 [Privilege 101: a quick and dirty guide](https://everydayfeminism.com/2014/09/what-is-privilege/)
-[Intersectionality and invisible privilege](http://www.petrieinventory.com/intersectionality-and-invisible-privilege-class-gender-race)
-[Gender equality and invisible privilege in the workplace](https://www.theguardian.com/sustainable-business/2016/jun/08/workplace-gender-equality-invisible-privilege)
+[5 types of privilege you don't know you're benefiting from](https://www.elitedaily.com/life/privilege-benefiting-from-no-idea/1496370)
 [What is white privilege?](https://everydayfeminism.com/2017/06/about-white-privilege-best-of-ef/)
 @snapend
 
@@ -98,7 +98,7 @@ Further reading:
 #### Oppression 
 
 * is the other side of privilege
-* is systemic rather than personal (like prejudice/discrimination)
+* is systemic rather than personal
 * can be hard to see: it might be well hidden, or so ubiquitous that it seems 'normal'
 
 @snapend
@@ -123,10 +123,14 @@ A person can be both privileged and oppressed at the same time, in different way
 
 Belonging to an oppressed group does not make an individual immune from oppressing others
 
-##### Being aware of privilege and oppression vectors in yourself and those around you is necessary to function as an ally
+**Being aware of privilege and oppression vectors in yourself and those around you is necessary to function as an ally**
 @snapend
 
 @snap[south-west span-100]
 Further reading:
+[Why it's important to think about privilege](https://www.globalcitizen.org/en/content/why-its-important-to-think-about-privilege-and-why/)
+[Intersectionality and invisible privilege](http://www.petrieinventory.com/intersectionality-and-invisible-privilege-class-gender-race)
+[Gender equality and invisible privilege in the workplace](https://www.theguardian.com/sustainable-business/2016/jun/08/workplace-gender-equality-invisible-privilege)
+[How to be aware of your privilege beyond gender and race](https://www.growingintopower.com/blog/how-to-be-aware-of-your-privilege-beyond-gender-and-race)
 
 @snapend
