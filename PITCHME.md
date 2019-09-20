@@ -132,7 +132,3 @@ Being aware of privilege and oppression vectors in yourself and those around you
 Further reading:
 
 @snapend
-
---
-
-#### A person can be both privileged and oppressed at the same time, in different ways
