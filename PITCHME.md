@@ -174,6 +174,8 @@ Further reading:
 "I just don't get involved with [politics/gender/race] issues ..."
 
 "I would be more willing to listen if this was a civil discussion ..."
+
+"If you really want people to support you then you should / shouldn't ..." 
 @snapend
 
 @snap[south-west span-100]
@@ -183,3 +185,4 @@ Further reading:
 [The 'friend argument': Some of my best friends are ...](https://rationalwiki.org/wiki/Friend_argument)
 @snapend
 
+https://everydayfeminism.com/2013/11/things-allies-need-to-know/
