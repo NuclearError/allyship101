@@ -121,9 +121,9 @@ Further reading:
 
 Brief, commonplace indignities or insults - intentional or otherwise.
 
-Small, subtle ways that a person is made to feel 'othered' or excluded.
+Small, subtle ways that a person is excluded or 'othered'.
 
-Implied value judgements in everyday conversation that invalidate a person's existence or life.
+Implied value judgements in everyday conversation that invalidate a person's existence or life choices.
 @snapend
 
 @snap[south-west span-100]
@@ -159,3 +159,27 @@ Further reading:
 [How to be aware of your privilege beyond gender and race](https://www.growingintopower.com/blog/how-to-be-aware-of-your-privilege-beyond-gender-and-race)
 [The privilege of not understanding privilege](https://www.psychologytoday.com/gb/blog/feeling-our-way/201702/the-privilege-not-understanding-privilege)
 @snapend
+
+---
+
+@title[But I'm a GOOD person!]
+
+@snap[north span-90]
+#### "But I'm not [bigotry type]! I'm a GOOD person!"
+
+"The problem can't be what **I** said. They must be too sensitive."
+
+"Well, THIS ONE TIME, something bad happened to ME ..."
+
+"I just don't get involved with [politics/gender/race] issues ..."
+
+"I would be more willing to listen if this was a civil discussion ..."
+@snapend
+
+@snap[south-west span-100]
+Further reading:
+
+[The psychological impact of discussing race as a white person](http://www.gcorr.org/why-its-so-hard-to-talk-to-white-people-about-racism/)
+[The 'friend argument': Some of my best friends are ...](https://rationalwiki.org/wiki/Friend_argument)
+@snapend
+
