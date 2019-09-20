@@ -123,9 +123,7 @@ A person can be both privileged and oppressed at the same time, in different way
 
 Belonging to an oppressed group does not make an individual immune from oppressing others
 
-It is possible to internalise societal biases without being aware of it
-
-Being aware of privilege and oppression vectors in yourself and those around you is necessary to function as an ally
+##### Being aware of privilege and oppression vectors in yourself and those around you is necessary to function as an ally
 @snapend
 
 @snap[south-west span-100]
