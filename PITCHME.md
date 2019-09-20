@@ -116,7 +116,7 @@ Further reading:
 
 @title[What is a microaggression?]
 
-@snap[north span-90]
+@snap[north span-100]
 #### What is a microaggression?
 
 Brief, commonplace indignities or insults - intentional or otherwise.
