@@ -97,9 +97,9 @@ Further reading:
 @snap[north span-100]
 #### Oppression 
 
-* is the other side of privilege
 * is systemic rather than personal
 * can be hard to see: it might be well hidden, or so ubiquitous that it seems 'normal'
+* is made up of both macro- and micro- aggressions
 
 @snapend
 
@@ -114,6 +114,31 @@ Further reading:
 
 ---
 
+@title[What is a microaggression?]
+
+@snap[north span-90]
+#### What is a microaggression?
+
+Brief, commonplace indignities or insults - intentional or otherwise.
+
+Small, subtle ways that a person is made to feel 'othered' or excluded.
+
+Implied value judgements in everyday conversation that invalidate a person's existence or life.
+@snapend
+
+@snap[south-west span-100]
+Further reading:
+[How microaggressions affect wellbeing in the workplace](https://www.forbes.com/sites/pragyaagarwaleurope/2019/03/29/how-microaggressions-can-affect-wellbeing-in-the-workplace/#68ae7e573cb5)
+[Unconscious bias at work](https://www.businessinsider.com/microaggression-unconscious-bias-at-work-2018-6)
+[The importance of understanding microaggressions at work](https://www.cultureamp.com/blog/the-importance-of-understanding-microaggressions-at-work/)
+[The microaggressions still prevalent in the workplace](https://www.forbes.com/sites/biancabarratt/2018/10/28/the-microaggressions-still-prevalent-in-the-workplace/#40aefb89c3b9)
+[Microaggressions at work: Deciding to be a bystander or an ally](https://www.vice.com/en_us/article/kzjm9a/microaggressions-at-work)
+['I'm not being homophobic, you're just too sensitive'](https://www.buzzfeed.com/hnigatu/19-lgbt-microaggressions-you-hear-on-a-daily-basis)
+[Everyday realities of being LGBTQ+ in the workplace](https://www.huffpost.com/entry/coded-language-lgbtq-workplace_n_5bc60816e4b0a8f17ee66530)
+@snapend
+
+---
+
 @title[Intersectionality and allyship]
 
 @snap[north span-90]
@@ -121,7 +146,7 @@ Further reading:
 
 A person can be both privileged and oppressed at the same time, in different ways
 
-Belonging to an oppressed group does not make an individual immune from oppressing others
+Belonging to an oppressed group does not make an individual incapable of oppressing others
 
 **Being aware of privilege and oppression vectors in yourself and those around you is necessary to function as an ally**
 @snapend
@@ -132,5 +157,5 @@ Further reading:
 [Intersectionality and invisible privilege](http://www.petrieinventory.com/intersectionality-and-invisible-privilege-class-gender-race)
 [Gender equality and invisible privilege in the workplace](https://www.theguardian.com/sustainable-business/2016/jun/08/workplace-gender-equality-invisible-privilege)
 [How to be aware of your privilege beyond gender and race](https://www.growingintopower.com/blog/how-to-be-aware-of-your-privilege-beyond-gender-and-race)
-
+[The privilege of not understanding privilege](https://www.psychologytoday.com/gb/blog/feeling-our-way/201702/the-privilege-not-understanding-privilege)
 @snapend
