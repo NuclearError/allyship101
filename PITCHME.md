@@ -66,25 +66,19 @@ Further reading:
 
 @title[What is intersectionality?]
 
-@snap[north span-100]
+
 #### What is intersectionality?  
 
-## 👴🏾 --> Racism, Ageism
-## 👩🏼 --> Sexism
-## 👩🏿 --> Sexism, Racism
-## 👭🏿 --> Sexism, Racism, Homophobia
-
+## 👩🏼Sexism
+## 👩🏿Sexism, Racism
+## 👴🏾Racism, Ageism
 
 Some types of difference will lead to societal disadvantages (**oppression**)
 
 Some differences will lead to societal advantages (**privilege**)
-@snapend
 
-@snap[south-west span-100]
-Further reading:
-[Dictionary definition of intersectionality](https://www.dictionary.com/browse/intersectionality)
-[Intersectionality entry on wikipedia](https://en.wikipedia.org/wiki/Intersectionality)
-@snapend
+
+
 
 ---
 
