@@ -186,3 +186,6 @@ Further reading:
 @snapend
 
 https://everydayfeminism.com/2013/11/things-allies-need-to-know/
+
+
+https://www.theodysseyonline.com/how-to-be-ally
