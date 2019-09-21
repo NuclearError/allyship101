@@ -78,13 +78,20 @@ Someone who is placed at a disadvantage in society, because of who they are
 
 @title[But don't we have diversity now?]
 
-# But don't we have diversity now? 🤔
-### We cancel people on twitter and everything
+## But don't we have diversity now? 🤔
+### We can cancel people on twitter and everything
 
 ---
 
 ## I Think You’ll Find It’s a Bit More Complicated Than That
 ### Ben Goldacre
+
+---
+
+@title[Microaggressions]
+
+# Microaggressions
+# 😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😬😠😤😡
 
 ---
 
