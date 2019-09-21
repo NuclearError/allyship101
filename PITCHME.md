@@ -67,17 +67,9 @@ Further reading:
 @title[What is intersectionality?]
 
 
-#### What is intersectionality?  
+## What is intersectionality?  
 
-## 👩🏼Sexism
-## 👩🏿Sexism, Racism
-## 👴🏾Racism, Ageism
-
-Some types of difference will lead to societal disadvantages (**oppression**)
-
-Some differences will lead to societal advantages (**privilege**)
-
-
+# 👩🏼  👩🏿  👴🏾
 
 
 ---
