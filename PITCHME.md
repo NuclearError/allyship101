@@ -15,17 +15,16 @@ https://gitpitch.com/NuclearError/allyship101
 
 @snap[north span-80]
 ## About this Lunch n Learn
-#### It turns out trying to condense complex issues into a 1 hour presentation is tricky
+### It turns out trying to condense complex issues into a 1 hour presentation is tricky
 @snapend
 
 @snap[midpoint span-100]
-* This presentation is a beginner's intro to allyship
-* The slides are full of clickable links to further reading material
-* You're strongly encouraged to do your own research and further reading
+* This is a beginner's intro to allyship
+* The slides include clickable links to further reading material
 @snapend
 
 @snap[south-west span-50]
-Further reading:
+Highly recommended reading:
 [http://www.guidetoallyship.com/](www.guidetoallyship.com)
 @snapend
 
@@ -50,6 +49,16 @@ Further reading:
 [7 different types of allyship in the workplace](https://www.themuse.com/advice/what-is-an-ally-7-examples)
 [30 ways to be a better ally](https://goodmenproject.com/ethics-values/30-ways-to-be-a-better-ally-hesaid/)
 @snapend
+
+---
+
+## Don't be a dick
+
+Wheaton's Law
+
+[wheatonslaw.com](http://www.wheatonslaw.com/)
+
+---
 
 ---
 
@@ -103,15 +112,6 @@ Further reading:
 
 @snapend
 
-@snap[south-west span-100]
-Further reading:
-[Oppression entry on wikipedia](https://en.m.wikipedia.org/wiki/Oppression)
-[Understanding oppression as a system](https://www.canr.msu.edu/news/understanding_oppression_and_isms_as_a_system)
-[A Muslim at Missouri University: does systemic oppression exist?](https://www.huffpost.com/entry/a-muslim-at-mizzou-does-s_b_8539080)
-[Unconscious racial biases in Britain](https://www.theguardian.com/uk-news/2018/dec/02/revealed-the-stark-evidence-of-everyday-racial-bias-in-britain)
-[Racism in the UK](https://graziadaily.co.uk/life/real-life/racism-uk/)
-@snapend
-
 ---
 
 @title[What is a microaggression?]
@@ -124,17 +124,6 @@ Brief, commonplace indignities or insults - intentional or otherwise.
 Small, subtle ways that a person is excluded or 'othered'.
 
 Implied value judgements in everyday conversation that invalidate a person's existence or life choices.
-@snapend
-
-@snap[south-west span-100]
-Further reading:
-[How microaggressions affect wellbeing in the workplace](https://www.forbes.com/sites/pragyaagarwaleurope/2019/03/29/how-microaggressions-can-affect-wellbeing-in-the-workplace/#68ae7e573cb5)
-[Unconscious bias at work](https://www.businessinsider.com/microaggression-unconscious-bias-at-work-2018-6)
-[The importance of understanding microaggressions at work](https://www.cultureamp.com/blog/the-importance-of-understanding-microaggressions-at-work/)
-[The microaggressions still prevalent in the workplace](https://www.forbes.com/sites/biancabarratt/2018/10/28/the-microaggressions-still-prevalent-in-the-workplace/#40aefb89c3b9)
-[Microaggressions at work: Deciding to be a bystander or an ally](https://www.vice.com/en_us/article/kzjm9a/microaggressions-at-work)
-['I'm not being homophobic, you're just too sensitive'](https://www.buzzfeed.com/hnigatu/19-lgbt-microaggressions-you-hear-on-a-daily-basis)
-[Everyday realities of being LGBTQ+ in the workplace](https://www.huffpost.com/entry/coded-language-lgbtq-workplace_n_5bc60816e4b0a8f17ee66530)
 @snapend
 
 ---
@@ -185,7 +174,31 @@ Further reading:
 [The 'friend argument': Some of my best friends are ...](https://rationalwiki.org/wiki/Friend_argument)
 @snapend
 
+---
+
 https://everydayfeminism.com/2013/11/things-allies-need-to-know/
 
 
 https://www.theodysseyonline.com/how-to-be-ally
+
+---
+
+@snap[north-west span-100]
+#### Oppression
+[Oppression entry on wikipedia](https://en.m.wikipedia.org/wiki/Oppression)
+[Understanding oppression as a system](https://www.canr.msu.edu/news/understanding_oppression_and_isms_as_a_system)
+[A Muslim at Missouri University: does systemic oppression exist?](https://www.huffpost.com/entry/a-muslim-at-mizzou-does-s_b_8539080)
+[Unconscious racial biases in Britain](https://www.theguardian.com/uk-news/2018/dec/02/revealed-the-stark-evidence-of-everyday-racial-bias-in-britain)
+[Racism in the UK](https://graziadaily.co.uk/life/real-life/racism-uk/)
+@snapend
+
+@snap[south-west span-100]
+#### Microaggressions
+[How microaggressions affect wellbeing in the workplace](https://www.forbes.com/sites/pragyaagarwaleurope/2019/03/29/how-microaggressions-can-affect-wellbeing-in-the-workplace/#68ae7e573cb5)
+[Unconscious bias at work](https://www.businessinsider.com/microaggression-unconscious-bias-at-work-2018-6)
+[The importance of understanding microaggressions at work](https://www.cultureamp.com/blog/the-importance-of-understanding-microaggressions-at-work/)
+[The microaggressions still prevalent in the workplace](https://www.forbes.com/sites/biancabarratt/2018/10/28/the-microaggressions-still-prevalent-in-the-workplace/#40aefb89c3b9)
+[Microaggressions at work: Deciding to be a bystander or an ally](https://www.vice.com/en_us/article/kzjm9a/microaggressions-at-work)
+['I'm not being homophobic, you're just too sensitive'](https://www.buzzfeed.com/hnigatu/19-lgbt-microaggressions-you-hear-on-a-daily-basis)
+[Everyday realities of being LGBTQ+ in the workplace](https://www.huffpost.com/entry/coded-language-lgbtq-workplace_n_5bc60816e4b0a8f17ee66530)
+@snapend
