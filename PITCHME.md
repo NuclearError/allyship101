@@ -59,7 +59,7 @@ Further reading:
 
 ---
 
-# I Think You’ll Find It’s a Bit More Complicated Than That
+## I Think You’ll Find It’s a Bit More Complicated Than That
 ### Ben Goldacre
 
 ---
@@ -68,7 +68,12 @@ Further reading:
 
 @snap[north span-100]
 #### What is intersectionality?  
-Everyone occupies different social and cultural 'spaces' (vectors) based on their differences, eg. age, race, class, gender, education etc.
+
+## 👴🏾 --> Racism, Ageism
+## 👩🏼 --> Sexism
+## 👩🏿 --> Sexism, Racism
+## 👭🏿 --> Sexism, Racism, Homophobia
+
 
 Some types of difference will lead to societal disadvantages (**oppression**)
 
@@ -204,3 +209,7 @@ https://www.theodysseyonline.com/how-to-be-ally
 ['I'm not being homophobic, you're just too sensitive'](https://www.buzzfeed.com/hnigatu/19-lgbt-microaggressions-you-hear-on-a-daily-basis)
 [Everyday realities of being LGBTQ+ in the workplace](https://www.huffpost.com/entry/coded-language-lgbtq-workplace_n_5bc60816e4b0a8f17ee66530)
 @snapend
+
+
+
+
