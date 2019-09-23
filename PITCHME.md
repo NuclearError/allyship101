@@ -106,7 +106,7 @@ Someone who is placed at a disadvantage in society, because of who they are
 @title[Twitter Post]
 
 @snap[north-west span-33]
-# boop
+![Bette Midler's Tweet from 19th September 2019](https://i.imgur.com/dOisL4O.png)
 @snapend
 
 @snap[north span-33]
@@ -167,7 +167,17 @@ Someone who is placed at a disadvantage in society, because of who they are
 
 @title[Avoid tone policing]
 
+@snap[north span-100]
 # Avoid tone policing 👮🚨
+@snapend
+
+@snap[west span-50]
+![Tone policing](https://i.imgur.com/REU3lpy.png)
+@snapend
+
+@snap[east span-50]
+![Tone policing AND good intentions](https://i.imgur.com/NbxfT2I.png)
+@snapend
 
 ---
 
