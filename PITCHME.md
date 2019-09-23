@@ -95,9 +95,21 @@ Someone who is placed at a disadvantage in society, because of who they are
 
 ---
 
-@title[Being an ally every day]
+@title[Twitter Post]
 
-## Being an ally every day
+Bette Midler post
+
+---
+
+@title[Twitter Post]
+
+responses to bette midler
+
+---
+
+@title[Allyship vs Activism]
+
+## Allyship vs Activism
 
 * ~~Smashing the system~~
 * ~~Punching nazis~~
@@ -107,3 +119,52 @@ Someone who is placed at a disadvantage in society, because of who they are
 * Research
 
 ---
+
+@title[Being an ally every day]
+
+# Being an ally every day
+## Help to take on a tiny piece of the burden
+### Avoid adding to the burden, passively or otherwise
+
+---
+
+@title[Learn to centre others]
+
+# Learn to centre others, not yourself
+## Don't make it all about you
+
+---
+
+@title[Avoid tone policing]
+
+# Avoid tone policing
+
+---
+
+@title[Use inclusive language]
+
+# Use inclusive language
+## Normalise inclusion in the workplace
+
+---
+
+@title[Apologise and move on from mistakes]
+
+# What if I make a mistake???
+# 😱
+
+* Apologise sincerely
+* Acknowledge the impact
+* Move on 
+* Do better next time
+
+---
+
+@title[Take care of yourself]
+
+# Take care of yourself
+## Self-care is important!
+### (Do make it all about you)
+
+---
+
