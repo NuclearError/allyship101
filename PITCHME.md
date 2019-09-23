@@ -97,7 +97,7 @@ Someone who is placed at a disadvantage in society, because of who they are
 
 ---
 
-@title[Twitter Post]
+@title[Good intentions: Bette Midler's tweet]
 
 ![Bette Midler's Tweet from 19th September 2019](https://i.imgur.com/dOisL4O.png)
 
@@ -105,20 +105,41 @@ Someone who is placed at a disadvantage in society, because of who they are
 
 @title[Twitter Post]
 
-responses to bette midler
+@snap[north-west span-33]
+# boop
+@snapend
 
----
+@snap[north span-33]
+# boop
+@snapend
 
-@title[Allyship vs Activism]
+@snap[north-east span-33]
+# boop
+@snapend
 
-## Allyship vs Activism
+@snap[west span-33]
+# boop
+@snapend
 
-* ~~Smashing the system~~
-* ~~Punching nazis~~
-* Awareness
-* Empathy
-* Listening
-* Research
+@snap[midpoint span-33]
+# boop
+@snapend
+
+@snap[east span-33]
+# boop
+@snapend
+
+@snap[south-west span-33]
+# boop
+@snapend
+
+@snap[south span-33]
+# boop
+@snapend
+
+@snap[south-east span-33]
+# boop
+@snapend
 
 ---
 
@@ -173,6 +194,19 @@ responses to bette midler
 
 # Take care of yourself
 ### (Do make it all about you)
+
+---
+
+@title[Allyship vs Activism]
+
+## Allyship vs Activism
+
+* ~~Smashing the system~~
+* ~~Punching nazis~~
+* Awareness
+* Empathy
+* Listening
+* Research
 
 ---
 
