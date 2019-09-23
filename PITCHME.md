@@ -4,11 +4,6 @@
 25th September 2019
 @snapend
 
-@snap[south span-75]
-Slides available here:
-https://gitpitch.com/NuclearError/allyship101
-@snapend
-
 ---
 
 @title[About]
@@ -235,4 +230,9 @@ responses to bette midler
 # Any Questions?
 #### "This is more of a comment than a question ..." 
 #### is not a question
+
+@snap[south span-100]
+Access the slides and links here:
+https://gitpitch.com/NuclearError/allyship101
+@snapend
 
