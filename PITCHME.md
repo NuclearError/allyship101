@@ -222,7 +222,7 @@ responses to bette midler
 
 @snap[north-west span-50]
 🎉 Most Recommended Further Reading 🎉
-[http://www.guidetoallyship.com/](www.guidetoallyship.com)
+[guidetoallyship.com](http://www.guidetoallyship.com/)
 [Rebeka Hutson, on allyship](https://www.onlyblackgirl.com/blog/can-we-get-real-about-allyship)  
 
 General reading on allyship

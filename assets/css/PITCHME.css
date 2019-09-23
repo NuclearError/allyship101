@@ -38,6 +38,13 @@
 	line-height: 2.5rem;
 }
 
+.north-west.span-50 p,
+.north-west.span-50 p > a,
+.north-east.span-50 p,
+.north-east.span-50 p > a {
+	color: red;
+}
+
 .reveal ul, .reveal ol {
 	margin-top: 2rem;
 }
