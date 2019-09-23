@@ -146,7 +146,7 @@ responses to bette midler
 
 @title[Avoid tone policing]
 
-# Avoid tone policing
+# Avoid tone policing 👮🚨
 
 ---
 
@@ -220,7 +220,15 @@ responses to bette midler
 
 @title[Further reading links]
 
-(further reading links)
+@snap[west span-50]
+Highly recommended reading:
+[http://www.guidetoallyship.com/](www.guidetoallyship.com)
+@snapend
+
+@snap[east span-50]
+Highly recommended reading:
+[http://www.guidetoallyship.com/](www.guidetoallyship.com)
+@snapend
 
 ---
 
