@@ -172,7 +172,7 @@ Someone who is placed at a disadvantage in society, because of who they are
 @snapend
 
 @snap[west span-50]
-![Tone policing](https://i.imgur.com/REU3lpy.png)
+![Tone policing](https://i.imgur.com/bSt9mId.png)
 @snapend
 
 @snap[east span-50]
