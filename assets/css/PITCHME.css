@@ -40,11 +40,12 @@
 
 .north-west.span-50 h6,
 .north-east.span-50 h6 {
-	margin: 0;
 	margin-top: 1rem;
+	margin-bottom: 0.25rem;
 	padding: 0;
-	font-size: 1.25rem;
-	line-height: 1.25rem;
+	font-size: 1.5rem;
+	line-height: 2rem;
+	letter-spacing: -1px;
 }
 
 .north-west.span-50 p,
@@ -53,8 +54,9 @@
 .north-east.span-50 p > a {
 	margin: 0;
 	padding: 0;
-	font-size: 1.25rem;
-	line-height: 1.25rem;
+	letter-spacing: 0.125px;
+	font-size: 1.125rem;
+	line-height: 1.75rem;
 }
 
 .reveal ul, .reveal ol {

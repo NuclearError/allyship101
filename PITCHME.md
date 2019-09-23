@@ -221,11 +221,11 @@ responses to bette midler
 @title[Further reading links]
 
 @snap[north-west span-50]
-###### 🎉 Most Recommended Further Reading 🎉
+###### Most Recommended Further Reading
 [guidetoallyship.com](http://www.guidetoallyship.com/)
-[Rebeka Hutson, on allyship](https://www.onlyblackgirl.com/blog/can-we-get-real-about-allyship)  
 
 ###### General reading on allyship
+[Rebeka Hutson, on allyship](https://www.onlyblackgirl.com/blog/can-we-get-real-about-allyship)  
 [7 examples of allyship in practise](https://www.themuse.com/advice/what-is-an-ally-7-examples)
 [How to be an ally in the office](https://medium.com/taking-note/how-to-be-an-ally-in-the-office-4d49535370c8)
 [30 ways to be a better ally](https://goodmenproject.com/ethics-values/30-ways-to-be-a-better-ally-hesaid/)
@@ -243,7 +243,9 @@ responses to bette midler
 [Why it's important to think about privilege](https://www.globalcitizen.org/en/content/why-its-important-to-think-about-privilege-and-why/)
 [How to be aware of your privilege beyond gender and race](https://www.growingintopower.com/blog/how-to-be-aware-of-your-privilege-beyond-gender-and-race)
 [The privilege of not understanding privilege](https://www.psychologytoday.com/gb/blog/feeling-our-way/201702/the-privilege-not-understanding-privilege)
+@snapend
 
+@snap[north-east span-50]
 ###### Oppression
 [Wikipedia: Social Exclusion](https://en.m.wikipedia.org/wiki/Social_exclusion)
 [Understanding oppression as a system](https://www.canr.msu.edu/news/understanding_oppression_and_isms_as_a_system)
@@ -295,12 +297,6 @@ responses to bette midler
 ###### Miscellaneous
 [Bette Midler's twitter thread](https://twitter.com/BetteMidler/status/1174760110515769354)
 [How diverse is your twitter feed?](https://www.proporti.onl/)
-
-@snapend
-
-@snap[north-east span-50]
-###### Highly recommended reading:
-[http://www.guidetoallyship.com/](www.guidetoallyship.com)
 @snapend
 
 ---
