@@ -135,6 +135,13 @@ responses to bette midler
 
 ---
 
+@title[Get comfortable with discomfort]
+
+# Get comfortable with being uncomfortable
+### Heavy topics are uncomfortable, and that's ok
+
+---
+
 @title[Avoid tone policing]
 
 # Avoid tone policing
@@ -166,4 +173,15 @@ responses to bette midler
 ### (Do make it all about you)
 
 ---
+
+@title[Allyship: steps to get started]
+
+# Allyship: steps to get started
+
+0. cultivate self awareness and awareness of privilege/oppression
+1. talk less, listen more
+2. google it yourself, do your research
+3. learn to compartmentalise your ego
+4. get comfortable with being uncomfortable
+5. practise self-care
 
