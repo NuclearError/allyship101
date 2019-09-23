@@ -110,35 +110,35 @@ Someone who is placed at a disadvantage in society, because of who they are
 @snapend
 
 @snap[north span-33]
-# boop
+![Beyonce has voter registration at her concerts](https://i.imgur.com/OmEnzWI.png)
 @snapend
 
 @snap[north-east span-33]
-# boop
+![White liberals stop pressuring black people](https://i.imgur.com/BImNrDH.png)
 @snapend
 
 @snap[west span-33]
-# boop
+![Imagine if 53% of white women didn't vote for Trump](https://i.imgur.com/uG9kBya.png)
 @snapend
 
 @snap[midpoint span-33]
-# boop
+![Black women already did their jobs](https://i.imgur.com/guxRUmT.png)
 @snapend
 
 @snap[east span-33]
-# boop
+![Respectfully, Ms M ...](https://i.imgur.com/xUCqicK.png)
 @snapend
 
 @snap[south-west span-33]
-# boop
+![Keep us out of your mouth](https://i.imgur.com/xsayqA2.png)
 @snapend
 
 @snap[south span-33]
-# boop
+![It would be black women to the rescue again](https://i.imgur.com/yjTG5mW.png)
 @snapend
 
 @snap[south-east span-33]
-# boop
+![Truth is I'm tired ...](https://i.imgur.com/I0uhkFV.png)
 @snapend
 
 ---
