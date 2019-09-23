@@ -59,6 +59,10 @@
 	line-height: 1.75rem;
 }
 
+.north-east.span-50 {
+	text-align: left;
+}
+
 .reveal ul, .reveal ol {
 	margin-top: 2rem;
 }

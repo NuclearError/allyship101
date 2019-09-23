@@ -218,7 +218,7 @@ responses to bette midler
 
 ---
 
-@title[Further reading links]
+@title[Further reading links 1]
 
 @snap[north-west span-50]
 ###### Most Recommended Further Reading
@@ -263,7 +263,13 @@ responses to bette midler
 [The microaggressions still prevalent in the workplace](https://www.forbes.com/sites/biancabarratt/2018/10/28/the-microaggressions-still-prevalent-in-the-workplace/#40aefb89c3b9)
 [Microaggressions at work: Deciding to be a bystander or an ally](https://www.vice.com/en_us/article/kzjm9a/microaggressions-at-work)
 [Everyday realities of being LGBTQ+ in the workplace](https://www.huffpost.com/entry/coded-language-lgbtq-workplace_n_5bc60816e4b0a8f17ee66530)
+@snapend
 
+---
+
+@title[Further reading links 2]
+
+@snap[north-west span-50]
 ###### Fallaces, pitfalls, and mistakes
 [What is performative allyship and why is it bad?](https://www.scarymommy.com/performative-allyship-what-it-is-what-it-looks-like-and-why-we-want-to-avoid-it/)
 [Allyship and performative wokeness](https://medium.com/@Tawdry_Hepburn/on-allyship-and-performative-wokeness-30581808bf8b)
@@ -297,6 +303,10 @@ responses to bette midler
 ###### Miscellaneous
 [Bette Midler's twitter thread](https://twitter.com/BetteMidler/status/1174760110515769354)
 [How diverse is your twitter feed?](https://www.proporti.onl/)
+@snapend
+
+@snap[north-east span-50]
+
 @snapend
 
 ---
