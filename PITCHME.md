@@ -293,7 +293,9 @@ responses to bette midler
 [Gender inclusive language guide](https://writingcenter.unc.edu/tips-and-tools/gender-inclusive-language/)
 [EU Parliament gender neutral language guide](https://www.europarl.europa.eu/cmsdata/151780/GNL_Guidelines_EN.pdf)
 [Inclusive language in tech](https://open.buffer.com/inclusive-language-tech/)
+@snapend
 
+@snap[north-east span-50]
 ###### Critical Thinking + Social Media
 [Social media and critical thinking](https://businessesgrow.com/2016/09/05/social-media-and-critical-thinking/)
 [The alt-right playbook (on social media)](https://www.youtube.com/playlist?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ)
@@ -303,10 +305,6 @@ responses to bette midler
 ###### Miscellaneous
 [Bette Midler's twitter thread](https://twitter.com/BetteMidler/status/1174760110515769354)
 [How diverse is your twitter feed?](https://www.proporti.onl/)
-@snapend
-
-@snap[north-east span-50]
-
 @snapend
 
 ---
