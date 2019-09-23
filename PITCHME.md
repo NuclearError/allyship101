@@ -95,6 +95,14 @@ Someone who is placed at a disadvantage in society, because of who they are
 
 ---
 
+@title[Intent vs Impact]
+
+# Intent vs Impact
+### If I Accidentally Punch You In the Face Did You Still Get Punched?
+#### [Rebekah Hutson](https://www.onlyblackgirl.com/blog/intent-vs-impact)
+
+---
+
 @title[Twitter Post]
 
 Bette Midler post
@@ -176,7 +184,8 @@ responses to bette midler
 
 @title[Allyship: steps to get started]
 
-# Allyship: steps to get started
+# Allyship
+### Steps to get started
 
 0. cultivate self awareness and awareness of privilege/oppression
 1. talk less, listen more
