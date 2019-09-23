@@ -49,7 +49,7 @@
 }
 
 .north-west.span-50 p,
-.north-east.span-50 p
+.north-east.span-50 p,
 .north-west.span-50 p > a,
 .north-east.span-50 p > a {
 	margin: 0;
