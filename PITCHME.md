@@ -218,7 +218,20 @@ responses to bette midler
 @snapend
 
 @snap[south span-100]
-## Yup.
+## Yup
 # 🤷🏻
 @snapend
+
+---
+
+@title[Further reading links]
+
+(further reading links)
+
+---
+
+@title[Q & A]
+
+# Any Questions?
+#### "This is more of a comment than a question ..." is not a question
 
