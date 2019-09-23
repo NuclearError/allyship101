@@ -122,16 +122,16 @@ responses to bette midler
 
 @title[Being an ally every day]
 
-# Being an ally every day
-## Help to take on a tiny piece of the burden
+# Being an ally means
+## helping to take on a tiny piece of the burden
 ### Avoid adding to the burden, passively or otherwise
 
 ---
 
 @title[Learn to centre others]
 
-# Learn to centre others, not yourself
-## Don't make it all about you
+# Learn to centre others
+### Don't make it all about you
 
 ---
 
@@ -144,7 +144,7 @@ responses to bette midler
 @title[Use inclusive language]
 
 # Use inclusive language
-## Normalise inclusion in the workplace
+### Normalise inclusion in the workplace
 
 ---
 
@@ -163,7 +163,6 @@ responses to bette midler
 @title[Take care of yourself]
 
 # Take care of yourself
-## Self-care is important!
 ### (Do make it all about you)
 
 ---
