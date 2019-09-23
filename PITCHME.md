@@ -95,4 +95,15 @@ Someone who is placed at a disadvantage in society, because of who they are
 
 ---
 
+@title[Being an ally every day]
 
+## Being an ally every day
+
+* ~~Smashing the system~~
+* ~~Punching nazis~~
+* Awareness
+* Empathy
+* Listening
+* Research
+
+---
