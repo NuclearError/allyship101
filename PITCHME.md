@@ -194,3 +194,29 @@ responses to bette midler
 4. get comfortable with being uncomfortable
 5. practise self-care
 
+---
+
+@title[Allyship: steps to get started]
+
+# Allyship
+### Steps to get started
+
+0. cultivate self awareness and awareness of privilege/oppression
+1. talk less, listen more
+2. google it yourself, do your research
+3. learn to compartmentalise your ego
+4. get comfortable with being uncomfortable
+5. practise self-care
+
+---
+
+@title[This all sounds like a lot of work]
+
+# Gosh
+### This all sounds like a lot of work
+
+@snap[south span-100]
+## Yup.
+# ¯\_(ツ)_/¯
+@snapend
+
