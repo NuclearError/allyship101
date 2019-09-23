@@ -279,7 +279,7 @@ responses to bette midler
 [Tone policing and privilege](https://everydayfeminism.com/2015/12/tone-policing-and-privilege/)
 [The 'friend argument': "Some of my best friends are ..."](https://rationalwiki.org/wiki/Friend_argument)
 ["I'm not being homophobic, you're just too sensitive"](https://www.buzzfeed.com/hnigatu/19-lgbt-microaggressions-you-hear-on-a-daily-basis)
-["OMG I didn't mean it like that!" Intent vs Impact](https://www.onlyblackgirl.com/blog/intent-vs-impact)
+["I didn't mean it like that!" Intent vs Impact](https://www.onlyblackgirl.com/blog/intent-vs-impact)
 
 ###### Diversity without Inclusion
 [The danger of mistaking diversity for inclusion](https://www.forbes.com/sites/danabrownlee/2019/09/15/the-dangers-of-mistaking-diversity-for-inclusion-in-the-workplace/#eb5e6314d861)
@@ -317,7 +317,7 @@ responses to bette midler
 #### is not a question
 @snapend
 
-@snap[south span-100]
+@snap[midpoint span-100]
 Access the slides and links here:
 https://gitpitch.com/NuclearError/allyship101
 @snapend
