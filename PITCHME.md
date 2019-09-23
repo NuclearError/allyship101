@@ -270,7 +270,7 @@ responses to bette midler
 @title[Further reading links 2]
 
 @snap[north-west span-50]
-###### Fallaces, pitfalls, and mistakes
+###### Fallacies, pitfalls, and mistakes
 [What is performative allyship and why is it bad?](https://www.scarymommy.com/performative-allyship-what-it-is-what-it-looks-like-and-why-we-want-to-avoid-it/)
 [Allyship and performative wokeness](https://medium.com/@Tawdry_Hepburn/on-allyship-and-performative-wokeness-30581808bf8b)
 [White performative allyship](https://www.columbiaspectator.com/opinion/2017/10/17/hey-hey-ho-ho-white-performative-allyship-has-got-to-go/)
