@@ -212,11 +212,13 @@ responses to bette midler
 
 @title[This all sounds like a lot of work]
 
+@snap[north span-100]
 # Gosh
 ### This all sounds like a lot of work
+@snapend
 
 @snap[south span-100]
 ## Yup.
-# ¯\_(ツ)_/¯
+# 🤷🏻
 @snapend
 
