@@ -99,7 +99,7 @@ Someone who is placed at a disadvantage in society, because of who they are
 
 @title[Twitter Post]
 
-Bette Midler post
+![Bette Midler's Tweet from 19th September 2019](https://i.imgur.com/dOisL4O.png)
 
 ---
 
