@@ -171,13 +171,15 @@ Someone who is placed at a disadvantage in society, because of who they are
 # Avoid tone policing 👮🚨
 @snapend
 
-@snap[west span-50]
+@snap[midpoint span-50]
+![Tone policing AND good intentions](https://i.imgur.com/NbxfT2I.png)
+@snapend
+
+@snap[south span-50]
 ![Tone policing](https://i.imgur.com/REU3lpy.png)
 @snapend
 
-@snap[east span-50]
-![Tone policing AND good intentions](https://i.imgur.com/NbxfT2I.png)
-@snapend
+
 
 ---
 
