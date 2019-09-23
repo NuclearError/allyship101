@@ -221,20 +221,20 @@ responses to bette midler
 @title[Further reading links]
 
 @snap[north-west span-50]
-🎉 Most Recommended Further Reading 🎉
+###### 🎉 Most Recommended Further Reading 🎉
 [guidetoallyship.com](http://www.guidetoallyship.com/)
 [Rebeka Hutson, on allyship](https://www.onlyblackgirl.com/blog/can-we-get-real-about-allyship)  
 
-General reading on allyship
+###### General reading on allyship
 [7 examples of allyship in practise](https://www.themuse.com/advice/what-is-an-ally-7-examples)
 [How to be an ally in the office](https://medium.com/taking-note/how-to-be-an-ally-in-the-office-4d49535370c8)
 [30 ways to be a better ally](https://goodmenproject.com/ethics-values/30-ways-to-be-a-better-ally-hesaid/)
 
-Intersectionality
+###### Intersectionality
 [Wikipedia: Intersectionality](https://en.wikipedia.org/wiki/Intersectionality)
 [Intersectionality and invisible privilege](http://www.petrieinventory.com/intersectionality-and-invisible-privilege-class-gender-race)
 
-Privilege
+###### Privilege
 [Wikipedia: social privilege](https://en.m.wikipedia.org/wiki/Social_privilege)
 [Privilege 101: a quick and dirty guide](https://everydayfeminism.com/2014/09/what-is-privilege/)
 [Invisible privilege in the workplace](https://www.theguardian.com/sustainable-business/2016/jun/08/workplace-gender-equality-invisible-privilege)
@@ -244,7 +244,7 @@ Privilege
 [How to be aware of your privilege beyond gender and race](https://www.growingintopower.com/blog/how-to-be-aware-of-your-privilege-beyond-gender-and-race)
 [The privilege of not understanding privilege](https://www.psychologytoday.com/gb/blog/feeling-our-way/201702/the-privilege-not-understanding-privilege)
 
-Oppression
+###### Oppression
 [Wikipedia: Social Exclusion](https://en.m.wikipedia.org/wiki/Social_exclusion)
 [Understanding oppression as a system](https://www.canr.msu.edu/news/understanding_oppression_and_isms_as_a_system)
 [Why it's hard to talk to white people about racism](http://www.gcorr.org/why-its-so-hard-to-talk-to-white-people-about-racism/)
@@ -253,7 +253,7 @@ Oppression
 [Racism in the UK](https://graziadaily.co.uk/life/real-life/racism-uk/)
 [Common behaviours you might not think of as abusive](https://thebodyisnotanapology.com/magazine/5-common-behaviors-cis-men-may-not-realize-are-abusive-and-how-to-stop-them/)
 
-Microaggressions
+###### Microaggressions
 [How microaggressions are like mosquito bites](https://youtu.be/hDd3bzA7450)
 [How microaggressions affect wellbeing in the workplace](https://www.forbes.com/sites/pragyaagarwaleurope/2019/03/29/how-microaggressions-can-affect-wellbeing-in-the-workplace/#68ae7e573cb5)
 [Unconscious bias at work](https://www.businessinsider.com/microaggression-unconscious-bias-at-work-2018-6)
@@ -262,7 +262,7 @@ Microaggressions
 [Microaggressions at work: Deciding to be a bystander or an ally](https://www.vice.com/en_us/article/kzjm9a/microaggressions-at-work)
 [Everyday realities of being LGBTQ+ in the workplace](https://www.huffpost.com/entry/coded-language-lgbtq-workplace_n_5bc60816e4b0a8f17ee66530)
 
-Fallaces, pitfalls, and mistakes
+###### Fallaces, pitfalls, and mistakes
 [What is performative allyship and why is it bad?](https://www.scarymommy.com/performative-allyship-what-it-is-what-it-looks-like-and-why-we-want-to-avoid-it/)
 [Allyship and performative wokeness](https://medium.com/@Tawdry_Hepburn/on-allyship-and-performative-wokeness-30581808bf8b)
 [White performative allyship](https://www.columbiaspectator.com/opinion/2017/10/17/hey-hey-ho-ho-white-performative-allyship-has-got-to-go/)
@@ -273,33 +273,33 @@ Fallaces, pitfalls, and mistakes
 ["I'm not being homophobic, you're just too sensitive"](https://www.buzzfeed.com/hnigatu/19-lgbt-microaggressions-you-hear-on-a-daily-basis)
 ["OMG I didn't mean it like that!" Intent vs Impact](https://www.onlyblackgirl.com/blog/intent-vs-impact)
 
-Diversity without Inclusion
+###### Diversity without Inclusion
 [The danger of mistaking diversity for inclusion](https://www.forbes.com/sites/danabrownlee/2019/09/15/the-dangers-of-mistaking-diversity-for-inclusion-in-the-workplace/#eb5e6314d861)
 [How women's suffrage betrayed black women](https://www.nytimes.com/2018/07/28/opinion/sunday/suffrage-movement-racism-black-women.html)
 [The suffragettes were not allies, they were racist](https://educationpost.org/the-suffragettes-were-not-allies-to-black-women-they-were-racist/)
 [Ida B. Wells, a short comic strip](http://www.harkavagrant.com/index.php?id=356)
 
-Inclusive language
+###### Inclusive language
 [How to use gender neutral words](https://www.teenvogue.com/story/how-to-use-gender-neutral-words)
 [Examples of inclusive language](http://carequadrant.com/inclusive-language-examples/)
 [Gender inclusive language guide](https://writingcenter.unc.edu/tips-and-tools/gender-inclusive-language/)
 [EU Parliament gender neutral language guide](https://www.europarl.europa.eu/cmsdata/151780/GNL_Guidelines_EN.pdf)
 [Inclusive language in tech](https://open.buffer.com/inclusive-language-tech/)
 
-Critical Thinking + Social Media
+###### Critical Thinking + Social Media
 [Social media and critical thinking](https://businessesgrow.com/2016/09/05/social-media-and-critical-thinking/)
 [The alt-right playbook (on social media)](https://www.youtube.com/playlist?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ)
 [Bret Stephens, Bedbugs, And The Illusion of Civility](https://youtu.be/GPgT5ePgkgA)
 [Kanye West, Prager University, and the Illusion of Free Thought](https://youtu.be/hYAYFgmOWAI)
 
-Miscellaneous
+###### Miscellaneous
 [Bette Midler's twitter thread](https://twitter.com/BetteMidler/status/1174760110515769354)
 [How diverse is your twitter feed?](https://www.proporti.onl/)
 
 @snapend
 
 @snap[north-east span-50]
-Highly recommended reading:
+###### Highly recommended reading:
 [http://www.guidetoallyship.com/](www.guidetoallyship.com)
 @snapend
 
