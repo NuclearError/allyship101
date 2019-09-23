@@ -179,8 +179,6 @@ Someone who is placed at a disadvantage in society, because of who they are
 ![Tone policing AND good intentions](https://i.imgur.com/NbxfT2I.png)
 @snapend
 
-
-
 ---
 
 @title[Use inclusive language]
