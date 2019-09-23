@@ -1,8 +1,7 @@
-@snap[north span-60]
+
 # Allyship 101 👍
 ### What it means to be an ally, and how to get started
 25th September 2019
-@snapend
 
 ---
 
@@ -18,7 +17,7 @@
 * The slides include clickable links to further reading material
 @snapend
 
-@snap[south-west span-50]
+@snap[south span-50]
 Highly recommended reading:
 [http://www.guidetoallyship.com/](www.guidetoallyship.com)
 @snapend
@@ -227,9 +226,11 @@ responses to bette midler
 
 @title[Q & A]
 
-# Any Questions?
+@snap[north span-100]
+# Any Questions? 🤔
 #### "This is more of a comment than a question ..." 
 #### is not a question
+@snapend
 
 @snap[south span-100]
 Access the slides and links here:
