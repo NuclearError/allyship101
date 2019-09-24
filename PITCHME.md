@@ -22,6 +22,13 @@ Highly recommended reading:
 [http://www.guidetoallyship.com/](www.guidetoallyship.com)
 @snapend
 
+Note:
+
+- Original title: "... and how to do it right"
+- Lots of subjects cut out
+- Links are information only, not endorsements
+- I've read / watched all of the content shared
+
 ---
 
 @title[What is an ally?]
@@ -130,7 +137,7 @@ Someone who is placed at a disadvantage in society, because of who they are
 @snapend
 
 @snap[south-west span-33]
-![Keep us out of your mouth](https://i.imgur.com/xsayqA2.png)
+![53% of white women are why we're here](https://i.imgur.com/yF72j2v.png)
 @snapend
 
 @snap[south span-33]
@@ -349,6 +356,7 @@ Someone who is placed at a disadvantage in society, because of who they are
 ###### Miscellaneous
 [Bette Midler's twitter thread](https://twitter.com/BetteMidler/status/1174760110515769354)
 [How diverse is your twitter feed?](https://www.proporti.onl/)
+[Wheaton's Law](http://www.wheatonslaw.com/dontbeadick.html)
 @snapend
 
 ---
