@@ -222,7 +222,7 @@ Note:
 ![White liberals stop pressuring black people](https://i.imgur.com/BImNrDH.png)
 @snapend
 
-@snap[east span-60]
+@snap[east span-45]
 ![Truth is I'm tired ...](https://i.imgur.com/I0uhkFV.png)
 @snapend
 

@@ -63,6 +63,18 @@
 	text-align: left;
 }
 
+.north-west.span-60,
+.west.span-60,
+.south-west.span-60 {
+	margin-left: -5rem;
+}
+
+.north-east.span-60,
+.east.span-60,
+.south-east.span-60 {
+	margin-right: -5rem;
+}
+
 .reveal ul, .reveal ol {
 	margin-top: 2rem;
 }
