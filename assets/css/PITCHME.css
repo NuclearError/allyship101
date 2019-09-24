@@ -86,14 +86,19 @@
 .speaker-controls-notes {
 	padding: 0;
 }
+'OpenDyslexic'
+.speaker-controls-notes .value ul {
+	border: 1px solid red;
+}
 
-.speaker-controls-notes .value ul,
+.speaker-controls-notes .value ul, 
 .speaker-controls-notes .value li,
 .speaker-controls-notes .value p {
+	font-family: "OpenDyslexic";
 	font-weight: 300;
-	font-size: 1.25rem;
-	line-height: 2rem;
-	letter-spacing: 0.75px;
+	font-size: 0.875rem;
+	line-height: 1.25rem;
+	letter-spacing: -1px;
 }
 
 @font-face {
@@ -104,6 +109,13 @@
 		 local("overpass-light"),
 		 local("Overpass-Light"),
 		 url(../fonts/overpass-light.otf);
+	font-weight: normal;
+  }
+
+@font-face {
+	font-family: 'OpenDyslexic';
+	src: local("OpenDyslexic"),
+		 url(../fonts/OpenDyslexic-Regular.otf);
 	font-weight: normal;
   }
 

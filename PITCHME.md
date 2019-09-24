@@ -113,6 +113,7 @@ Note:
 - I'm sure you're already aware
 - Life is a lot more complicated than that
 - If everyone had the same perception of what is acceptable behaviour, it would be really easy
+- most people see themselves as 'good' or 'right'
 - Injustice and discrimination doesn't necessarily happen just because someone woke up and decided to "be a dick"
 
 INTRO NEXT SLIDE
