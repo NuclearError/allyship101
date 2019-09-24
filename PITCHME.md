@@ -206,7 +206,7 @@ Note:
 
 @title[Twitter Post]
 
-@snap[west span-50]
+@snap[north-west span-50]
 ![53% of white women are why we're here](https://i.imgur.com/yF72j2v.png)
 @snapend
 
@@ -214,11 +214,11 @@ Note:
 ![Beyonce has voter registration at her concerts](https://i.imgur.com/OmEnzWI.png)
 @snapend
 
-@snap[west span-50]
+@snap[south-west span-50]
 ![Respectfully, Ms M ...](https://i.imgur.com/xUCqicK.png)
 @snapend
 
-@snap[east span-50]
+@snap[north-east span-50]
 ![White liberals stop pressuring black people](https://i.imgur.com/BImNrDH.png)
 @snapend
 
@@ -226,7 +226,7 @@ Note:
 ![It would be black women to the rescue again](https://i.imgur.com/yjTG5mW.png)
 @snapend
 
-@snap[east span-50]
+@snap[south-east span-50]
 ![Truth is I'm tired ...](https://i.imgur.com/I0uhkFV.png)
 @snapend
 

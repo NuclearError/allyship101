@@ -63,11 +63,6 @@
 	text-align: left;
 }
 
-.west.span-50 {
-	width: 65% !important;
-	margin-left: -10rem;
-}
-
 .reveal ul, .reveal ol {
 	margin-top: 2rem;
 }
