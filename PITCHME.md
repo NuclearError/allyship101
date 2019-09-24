@@ -206,39 +206,27 @@ Note:
 
 @title[Twitter Post]
 
-@snap[north-west span-33]
-![Bette Midler's Tweet from 19th September 2019](https://i.imgur.com/dOisL4O.png)
-@snapend
-
-@snap[north span-33]
-![Beyonce has voter registration at her concerts](https://i.imgur.com/OmEnzWI.png)
-@snapend
-
-@snap[north-east span-33]
-![White liberals stop pressuring black people](https://i.imgur.com/BImNrDH.png)
-@snapend
-
-@snap[west span-33]
-![Imagine if 53% of white women didn't vote for Trump](https://i.imgur.com/uG9kBya.png)
-@snapend
-
-@snap[midpoint span-33]
-![Black women already did their jobs](https://i.imgur.com/guxRUmT.png)
-@snapend
-
-@snap[east span-33]
-![Respectfully, Ms M ...](https://i.imgur.com/xUCqicK.png)
-@snapend
-
-@snap[south-west span-33]
+@snap[west span-50]
 ![53% of white women are why we're here](https://i.imgur.com/yF72j2v.png)
 @snapend
 
-@snap[south span-33]
+@snap[west span-50]
+![Beyonce has voter registration at her concerts](https://i.imgur.com/OmEnzWI.png)
+@snapend
+
+@snap[west span-50]
+![Respectfully, Ms M ...](https://i.imgur.com/xUCqicK.png)
+@snapend
+
+@snap[east span-50]
+![White liberals stop pressuring black people](https://i.imgur.com/BImNrDH.png)
+@snapend
+
+@snap[east span-50]
 ![It would be black women to the rescue again](https://i.imgur.com/yjTG5mW.png)
 @snapend
 
-@snap[south-east span-33]
+@snap[east span-50]
 ![Truth is I'm tired ...](https://i.imgur.com/I0uhkFV.png)
 @snapend
 
