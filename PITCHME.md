@@ -357,6 +357,7 @@ Someone who is placed at a disadvantage in society, because of who they are
 [Bette Midler's twitter thread](https://twitter.com/BetteMidler/status/1174760110515769354)
 [How diverse is your twitter feed?](https://www.proporti.onl/)
 [Wheaton's Law](http://www.wheatonslaw.com/dontbeadick.html)
+[I think you'll find it's a bit more complicated than that](https://www.amazon.co.uk/Think-Youll-Find-More-Complicated/dp/0007505140)
 @snapend
 
 ---

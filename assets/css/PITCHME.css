@@ -81,6 +81,19 @@
 	line-height: 3.5rem;
 }
 
+.speaker-controls-notes {
+	padding: 0;
+}
+
+.speaker-controls-notes ul,
+.speaker-controls-notes li,
+.speaker-controls-notes p {
+	font-weight: 300;
+	font-size: 1.25rem;
+	line-height: 2rem;
+	letter-spacing: 0.75px;
+}
+
 @font-face {
 	font-family: 'Overpass Light';
 	src: local("overpass"),
