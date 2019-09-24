@@ -208,9 +208,9 @@ Modern discrimination and bigotry are often quite subtle and difficult to prove.
 An important thing to do as an ally is to BELIEVE PEOPLE.
 
 ONE LAST THING
--- Not about 'winning the oppression olympics'
--- it's not about counting privilege/oppression and seeing who has the bigger number
--- IMPORTANT for taking intersectional vectors into account
+- Not about 'winning the oppression olympics'
+- it's not about counting privilege/oppression and seeing who has the bigger number
+- IMPORTANT for taking intersectional vectors into account
 
 ---
 
@@ -243,7 +243,7 @@ EXAMPLES
 Literally addressing men --> guys is fine
 
 Otherwise, perpetuates an exclusionary environment
---> Opression = UBIQUITOUS, NORMAL
+- Opression = UBIQUITOUS, NORMAL
 
 HAVE YOU EVER NOTICED someone seeming overly upset, angry, "hysterical" in relation to something that seemed harmless or not a big deal to you?
 
@@ -265,10 +265,10 @@ Note:
 
 Understanding intent vs impact is important because intent is often used as an excuse or defense for microaggressions or discriminatory behaviour. 
 
-"I didn't mean it that way"
-"It was just a joke"
-"I never meant any harm"
-"I'm definitely not a racist/sexist/etc"
+- "I didn't mean it that way"
+- "It was just a joke"
+- "I never meant any harm"
+- "I'm definitely not a racist/sexist/etc"
 
 - Whether these defences are SINCERE OR NOT, 
 - they CENTRE the person who caused the harm, 
@@ -276,7 +276,18 @@ Understanding intent vs impact is important because intent is often used as an e
 
 The impact of your actions matters more than what you intended.
 
-PLEASE READ THE LINKS!
+ASSUMING GOOD INTENT
+* broadly speaking this is ok
+* if you suffer from anxiety or paranoia, this can help
+
+HOWEVER
+* be aware that this can be naive
+* marginalised people may refuse to assume good intent because they can see contextual clues that you haven't noticed
+* asking the victim of a microaggression to assume good intent places a mental and emotional burden on them
+
+INSTEAD
+* be aware of the impact of your actions
+* hold yourself and others around you accountable
 
 ---
 
@@ -301,7 +312,9 @@ IT's ABOUT
 * solidarity with marginalised groups
 
 By shouldering some of the burden, allies ensure that 
-marginalised groups aren't the only ones doing the work
+marginalised groups aren't the only ones doing the work.
+
+Having good intentions is not enough.
 
 ---
 
@@ -311,6 +324,8 @@ marginalised groups aren't the only ones doing the work
 ### Don't make it all about you
 
 Note:
+
+This is tough, everyone has an ego.
 
 * Important to observe your own behaviours and spot when you're centring yourself inappropriately
 
@@ -329,6 +344,27 @@ Includes:
 # Get comfortable with being uncomfortable
 ### Heavy topics are uncomfortable, and that's ok
 
+Note:
+
+The nature of oppression and dealing with social injustice means it's inevitably not always going to be easy or cheerful. 
+
+* There are times you will feel uncomfortable.
+* Recognise that it's ok to feel uncomfortable sometimes. 
+* Temporary emotional discomfort is not going to hurt you.
+
+FLINCH RESPONSE
+DEFENSIVE, LASH OUT
+
+* "How dare you!!!"
+* "I'm a GOOD PERSON!!!"
+* "That can't be true! I don't believe you!"
+
+Practise letting go of the emotional flinch.
+
+DISCLAIMER
+- emotional discomfort
+- not actual danger or threat
+
 ---
 
 @title[Avoid tone policing]
@@ -337,6 +373,40 @@ Includes:
 
 ![Tone policing Greta Thunberg](https://i.imgur.com/nKk24JU.png)
 
+Note:
+
+(READ THE TWEET)
+
+* I picked this tweet out because it's a USEFUL example
+
+TONE POLICING
+* invalidating someone's position based on HOW they said it
+* dismissing someone because they expressed an emotion
+* ignoring the substance of a message based on its presentation
+
+EXAMPLES
+* telling someone to calm down, chill out
+* accusing someone of being too aggressive or angry
+* telling someone they need to be more "CIVIL" or "POLITE"
+
+IT'S NOT ABOUT
+* saying whatever, however you want
+
+"Because you didn't say it nicely, the way I want, I'm ignoring your point"
+"People would be more likely to listen to you if you said it differently"
+
+Marketing and presentation is a fact of life, so sometimes 
+pragmatism is necessary with how messages are presented. But that doesn't make it ok to police someone else's tone.
+
+Allyship shouldn't be conditional upon the message being comfortable for you.
+
+(REFER BACK TO TWEET)
+
+DISCLAIMER
+* If someone's screaming at you or making you feel unsafe,
+* it's ok to remove yourself from that situation. 
+* That's not tone policing.
+
 ---
 
 @title[Use inclusive language]
@@ -344,39 +414,50 @@ Includes:
 # Use inclusive language
 ### Normalise inclusion in the workplace
 
+Note:
+
+AS AN ALLY
+* make an effort to use inclusive language
+* ONE EXAMPLE: "everyone" instead of "guys"
+* Do your research and try to make a habit of it
+
+Normalising inclusive behaviours
+* improves the work environment and culture for everyone
+
+Language is a human construct and we can choose how we want it to develop.
+* Choose to develop it in a way that includes everyone
+
+DIVERSITY & INCLUSION
+* is a phrase that gets used a lot in the context of tech and HR
+* we don't often talk about the difference between diversity and inclusion
+* inclusion is about making sure that we don't leave anyone behind 
+
 ---
 
-@title[Good intentions: Bette Midler's tweet]
+@title[Apologise and move on from mistakes]
 
-![Bette Midler's Tweet from 19th September 2019](https://i.imgur.com/dOisL4O.png)
+# Listen more
+# Talk less
+### Do your own research
 
----
+Note:
 
-@title[Twitter Post]
+* Talking less and listening more
+* another way of centering others instead of yourself
 
-@snap[north-west span-60]
-![53% of white women are why we're here](https://i.imgur.com/yF72j2v.png)
-@snapend
+* Learn from others
+* Believe what they are telling you
 
-@snap[west span-60]
-![Beyonce has voter registration at her concerts](https://i.imgur.com/OmEnzWI.png)
-@snapend
+* Consider broadening your media consumption 
+* If you only ever hear voices like yours, you're going to miss out
 
-@snap[south-west span-60]
-![Respectfully, Ms M ...](https://i.imgur.com/xUCqicK.png)
-@snapend
+IF YOU HAVE QUESTIONS
+* do the research yourself
+* we all work in tech
+* we know how to google things
 
-@snap[north-east span-60]
-![White liberals stop pressuring black people](https://i.imgur.com/BImNrDH.png)
-@snapend
-
-@snap[east span-45]
-![Truth is I'm tired ...](https://i.imgur.com/I0uhkFV.png)
-@snapend
-
-@snap[south-east span-60]
-![It would be black women to the rescue again](https://i.imgur.com/yjTG5mW.png)
-@snapend
+Demanding "proof" and citations is exhausting and places
+the burden of your education on the shoulders of the marginalised
 
 ---
 
@@ -390,39 +471,57 @@ Includes:
 * Move on 
 * Do better next time
 
+Note:
+
+* Nobody is perfect
+* Everyone makes mistakes
+* Feeling guilty about mistakes is uncomfortable
+* But still avoid making it all about you
+
+APOLOGISE SINCERELY
+* Don't do a fake apology "I'm sorry you felt that way"
+
+ACKNOWLEDGE THE IMPACT
+* Demonstrate that you know what you're apologising for
+
+MOVE ON 
+* Don't drag the apology out
+* Don't make it about you
+* Don't get caught up in how bad you feel
+* Don't expect the person you harmed to comfort you
+
+DO BETTER NEXT TIME
+* It's not ok to keep making the same mistakes
+* Apologies won't fix everything or make it ok
+* Learn from your experiences
+* Don't beat yourself up but
+* Hold yourself accountable
+
 ---
 
 @title[Take care of yourself]
 
 # Take care of yourself
-### (Do make it all about you)
+### (This one is all about you)
 
----
+Note:
 
-@title[Allyship vs Activism]
+WHEN WE SAY
+* Don't make it all about you
 
-## Allyship vs Activism
+IT DOESN'T MEAN
+* It can never be about you
 
-* ~~Smashing the system~~
-* ~~Punching nazis~~
-* Awareness
-* Empathy
-* Listening
-* Research
+SELF CARE IS IMPORTANT
+* avoid burn out and exhaustion
+* helps you to support others
 
----
+Everyone needs time to focus on themselves
+* Appropriate time and place
+* Friends, family, a therapist, your inner circle
 
-@title[Allyship: steps to get started]
-
-# Allyship
-### Steps to get started
-
-0. cultivate self awareness and awareness of privilege/oppression
-1. talk less, listen more
-2. google it yourself, do your research
-3. learn to compartmentalise your ego
-4. get comfortable with being uncomfortable
-5. practise self-care
+HELPS TO AVOID CENTRING YOURSELF
+* when interacting with marginalised groups
 
 ---
 
@@ -434,9 +533,14 @@ Includes:
 0. cultivate self awareness and awareness of privilege/oppression
 1. talk less, listen more
 2. google it yourself, do your research
-3. learn to compartmentalise your ego
+3. avoid making it all about you
 4. get comfortable with being uncomfortable
 5. practise self-care
+
+Note:
+
+TO SUMMARISE
+* (read the slide)
 
 ---
 
@@ -451,6 +555,21 @@ Includes:
 ## Yup
 # 🤷🏻
 @snapend
+
+Note:
+
+* This has been quite a heavy talk
+* Focusing on the negative aspects of humanity is draining
+* It takes a lot of mental effort
+* But it's worth being an ally so that the burden doesn't fall entirely on marginalised people
+
+INTRO NEXT SLIDES
+* Because research and learning is such a big part of being an ally,
+* I've collated further reading links relating back to the subjects discussed.
+
+I WILL POST A LINK
+* to the talk slides in slack and over email
+* so you can access the links
 
 ---
 
@@ -517,10 +636,10 @@ Includes:
 ["I'm not being homophobic, you're just too sensitive"](https://www.buzzfeed.com/hnigatu/19-lgbt-microaggressions-you-hear-on-a-daily-basis)
 ["I didn't mean it like that!" Intent vs Impact](https://www.onlyblackgirl.com/blog/intent-vs-impact)
 
-###### Diversity without Inclusion
+###### Diversity, without the Inclusion 
 [The danger of mistaking diversity for inclusion](https://www.forbes.com/sites/danabrownlee/2019/09/15/the-dangers-of-mistaking-diversity-for-inclusion-in-the-workplace/#eb5e6314d861)
 [How women's suffrage betrayed black women](https://www.nytimes.com/2018/07/28/opinion/sunday/suffrage-movement-racism-black-women.html)
-[The suffragettes were not allies, they were racist](https://educationpost.org/the-suffragettes-were-not-allies-to-black-women-they-were-racist/)
+[The suffragettes were not allies](https://educationpost.org/the-suffragettes-were-not-allies-to-black-women-they-were-racist/)
 [Ida B. Wells, a short comic strip](http://www.harkavagrant.com/index.php?id=356)
 
 ###### Inclusive language
@@ -539,7 +658,6 @@ Includes:
 [Kanye West, Prager University, and the Illusion of Free Thought](https://youtu.be/hYAYFgmOWAI)
 
 ###### Miscellaneous
-[Bette Midler's twitter thread](https://twitter.com/BetteMidler/status/1174760110515769354)
 [How diverse is your twitter feed?](https://www.proporti.onl/)
 [Wheaton's Law](http://www.wheatonslaw.com/dontbeadick.html)
 [I think you'll find it's a bit more complicated than that](https://www.amazon.co.uk/Think-Youll-Find-More-Complicated/dp/0007505140)
@@ -547,16 +665,19 @@ Includes:
 
 ---
 
-@title[Q & A]
+@title[The End]
 
-@snap[north span-100]
-# Any Questions? 🤔
-#### "This is more of a comment than a question ..." 
-#### is not a question
-@snapend
-
-@snap[midpoint span-100]
-Access the slides and links here:
+### Access the slides and links here:
 https://gitpitch.com/NuclearError/allyship101
-@snapend
+
+Note:
+
+I'D LIKE TO FINISH
+* with a quote from Rebekah Hutson
+* from onlyblackgirl.com
+
+"Marginalized people have been taking the full brute force of prejudice and discrimination on a worldwide scale for centuries and we’re tired. We’re tired and dying. If you truly believe in equity and human rights for everyone, you need to start doing the work to prove it."
+
+THANK YOU
+
 
