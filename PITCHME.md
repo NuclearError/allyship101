@@ -160,8 +160,25 @@ Key things to know about privilege and oppression as concepts
 
 Note:
 
-- coined by Kimberlé Williams Crenshaw in 1989
-- often called "intersectional feminism"
+- doesn't mean 'bad': it's not a comment on you as a person
+- it's about how you're perceived or treated by society
+- it's a passive thing, something you just are, not something you're doing
+- can be invisible: it is easy to be unaware of your own privileges
+
+EXAMPLE
+- I have had a few very positive experiences with police officers in the UK and the US
+- I was treated so politely and kindly, I was genuinely confused by criticism of the police
+- Murder of Trayvon Martin in February 2012 that I started researching
+- I had no idea that my whiteness would protect me from violence
+
+IT DOESN'T MEAN that my life is easy or perfect because I'm white. 
+IT MEANS certain forms of injustice and oppression will pass me by.
+
+- Brings me to another form of privilege: the privilege of not needing to know or care
+- "I don't really get involved in politics"
+- "I don't want to talk about this, it's nothing to do with me"
+
+I never knew about systemic racism and violence because I didn't need to.
 
 ---
 
@@ -195,40 +212,6 @@ Note:
 # Intent vs Impact
 ### If I Accidentally Punch You In the Face Did You Still Get Punched?
 #### [Rebekah Hutson](https://www.onlyblackgirl.com/blog/intent-vs-impact)
-
----
-
-@title[Good intentions: Bette Midler's tweet]
-
-![Bette Midler's Tweet from 19th September 2019](https://i.imgur.com/dOisL4O.png)
-
----
-
-@title[Twitter Post]
-
-@snap[north-west span-60]
-![53% of white women are why we're here](https://i.imgur.com/yF72j2v.png)
-@snapend
-
-@snap[west span-60]
-![Beyonce has voter registration at her concerts](https://i.imgur.com/OmEnzWI.png)
-@snapend
-
-@snap[south-west span-60]
-![Respectfully, Ms M ...](https://i.imgur.com/xUCqicK.png)
-@snapend
-
-@snap[north-east span-60]
-![White liberals stop pressuring black people](https://i.imgur.com/BImNrDH.png)
-@snapend
-
-@snap[east span-45]
-![Truth is I'm tired ...](https://i.imgur.com/I0uhkFV.png)
-@snapend
-
-@snap[south-east span-60]
-![It would be black women to the rescue again](https://i.imgur.com/yjTG5mW.png)
-@snapend
 
 ---
 
@@ -266,6 +249,40 @@ Note:
 
 # Use inclusive language
 ### Normalise inclusion in the workplace
+
+---
+
+@title[Good intentions: Bette Midler's tweet]
+
+![Bette Midler's Tweet from 19th September 2019](https://i.imgur.com/dOisL4O.png)
+
+---
+
+@title[Twitter Post]
+
+@snap[north-west span-60]
+![53% of white women are why we're here](https://i.imgur.com/yF72j2v.png)
+@snapend
+
+@snap[west span-60]
+![Beyonce has voter registration at her concerts](https://i.imgur.com/OmEnzWI.png)
+@snapend
+
+@snap[south-west span-60]
+![Respectfully, Ms M ...](https://i.imgur.com/xUCqicK.png)
+@snapend
+
+@snap[north-east span-60]
+![White liberals stop pressuring black people](https://i.imgur.com/BImNrDH.png)
+@snapend
+
+@snap[east span-45]
+![Truth is I'm tired ...](https://i.imgur.com/I0uhkFV.png)
+@snapend
+
+@snap[south-east span-60]
+![It would be black women to the rescue again](https://i.imgur.com/yjTG5mW.png)
+@snapend
 
 ---
 
