@@ -189,17 +189,28 @@ I never knew about systemic racism and violence because I didn't need to.
 
 # Oppression 🔒
 
----
+Note:
 
-@title[But don't we have diversity now?]
+- hate crimes or discrimination are part of oppression
+BUT
+- systemic rather than personal 
+- supported and enforced by society and its institutions
+- could be so ubiquitous that it seems 'normal'
 
-## But don't we have diversity now? 🤔
-### We can cancel people on twitter and everything
+'OBVIOUS' example
+- unable to get married or vote
 
----
+LESS OBVIOUS example
+- Employers discarding CV applications based on the applicant's name
 
-## I Think You’ll Find It’s a Bit More Complicated Than That
-### Ben Goldacre
+Modern discrimination and bigotry are often quite subtle and difficult to prove.
+
+An important thing to do as an ally is to BELIEVE PEOPLE.
+
+ONE LAST THING
+-- Not about 'winning the oppression olympics'
+-- it's not about counting privilege/oppression and seeing who has the bigger number
+-- IMPORTANT for taking intersectional vectors into account
 
 ---
 
@@ -207,6 +218,38 @@ I never knew about systemic racism and violence because I didn't need to.
 
 # Microaggressions
 # 😶😶😶😶😶😶😬😤😡
+
+Note: 
+
+- Brief, commonplace indignities or insults - intentional or otherwise.
+- Small, subtle ways that a person is excluded, dismissed, alienated.
+
+Analogy often used: MOSQUITO BITES. One or two are annoying ...
+
+EXAMPLES
+- Asking someone "where are you FROM?" because they're not white
+- Casually using slurs or bigoted language in everyday conversation
+
+"That's so gay"
+"My boss is going to go mental"
+
+- Not bothering to learn how to pronounce someone's name correctly
+- Telling someone that their name is 'too hard' to learn
+- Referring to someone by incorrect pronouns
+- Casually using gender-exclusive language
+
+"Hey guys" --> others women and non-binary people in the room
+
+Literally addressing men --> guys is fine
+
+Otherwise, perpetuates an exclusionary environment
+--> Opression = UBIQUITOUS, NORMAL
+
+HAVE YOU EVER NOTICED someone seeming overly upset, angry, "hysterical" in relation to something that seemed harmless or not a big deal to you?
+
+Consider that the 'tiny' thing you witnessed might have been one in a long line of microaggressions.
+
+A common microaggression is to invalidate and dismiss the reactions and emotions expressed by a marginalised person.
 
 ---
 
@@ -216,6 +259,25 @@ I never knew about systemic racism and violence because I didn't need to.
 ### If I Accidentally Punch You In the Face Did You Still Get Punched?
 #### [Rebekah Hutson](https://www.onlyblackgirl.com/blog/intent-vs-impact)
 
+Note: 
+
+(READ THE QUOTE)
+
+Understanding intent vs impact is important because intent is often used as an excuse or defense for microaggressions or discriminatory behaviour. 
+
+"I didn't mean it that way"
+"It was just a joke"
+"I never meant any harm"
+"I'm definitely not a racist/sexist/etc"
+
+- Whether these defences are SINCERE OR NOT, 
+- they CENTRE the person who caused the harm, 
+- taking attention away from the person WHO WAS HARMED.
+
+The impact of your actions matters more than what you intended.
+
+PLEASE READ THE LINKS!
+
 ---
 
 @title[Being an ally every day]
@@ -224,12 +286,41 @@ I never knew about systemic racism and violence because I didn't need to.
 ## helping to take on a tiny piece of the burden
 ### Avoid adding to the burden, passively or otherwise
 
+Note: 
+
+(READ THE SLIDE)
+
+NOT ABOUT
+
+* rescuing people
+* being the saviour
+
+IT's ABOUT
+
+* ACTIVE support
+* solidarity with marginalised groups
+
+By shouldering some of the burden, allies ensure that 
+marginalised groups aren't the only ones doing the work
+
 ---
 
 @title[Learn to centre others]
 
 # Learn to centre others
 ### Don't make it all about you
+
+Note:
+
+* Important to observe your own behaviours and spot when you're centring yourself inappropriately
+
+Includes:
+* giving your opinions and advice unsolicited
+* dismissing something if you haven't personally experienced it
+* derailing discussions to talk about yourself 
+* letting your ego get in the way of listening
+
+"I can't be RACIST, I'm a GOOD person!"
 
 ---
 
