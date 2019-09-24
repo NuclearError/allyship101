@@ -38,12 +38,67 @@
 	line-height: 2.5rem;
 }
 
+.north-west.span-50 h6,
+.north-east.span-50 h6 {
+	margin-top: 1rem;
+	margin-bottom: 0.25rem;
+	padding: 0;
+	font-size: 1.5rem;
+	line-height: 2rem;
+	letter-spacing: -1px;
+}
+
+.north-west.span-50 p,
+.north-east.span-50 p,
+.north-west.span-50 p > a,
+.north-east.span-50 p > a {
+	margin: 0;
+	padding: 0;
+	letter-spacing: 0.125px;
+	font-size: 1.125rem;
+	line-height: 1.75rem;
+}
+
+.north-east.span-50 {
+	text-align: left;
+}
+
+.north-west.span-60,
+.west.span-60,
+.south-west.span-60 {
+	margin-left: -5rem;
+}
+
+.north-east.span-60,
+.east.span-60,
+.south-east.span-60 {
+	margin-right: -5rem;
+}
+
 .reveal ul, .reveal ol {
 	margin-top: 2rem;
 }
 
 .reveal li {
 	line-height: 3.5rem;
+}
+
+.speaker-controls-notes {
+	padding: 0;
+}
+
+.speaker-controls-notes .value ul {
+	border: 1px solid red;
+}
+
+.speaker-controls-notes .value ul, 
+.speaker-controls-notes .value li,
+.speaker-controls-notes .value p {
+	font-family: "OpenDyslexic";
+	font-weight: 300;
+	font-size: 0.875rem;
+	line-height: 1.25rem;
+	letter-spacing: -1px;
 }
 
 @font-face {
@@ -54,6 +109,13 @@
 		 local("overpass-light"),
 		 local("Overpass-Light"),
 		 url(../fonts/overpass-light.otf);
+	font-weight: normal;
+  }
+
+@font-face {
+	font-family: 'OpenDyslexic';
+	src: local("OpenDyslexic"),
+		 url(../fonts/OpenDyslexic-Regular.otf);
 	font-weight: normal;
   }
 
