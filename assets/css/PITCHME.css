@@ -87,9 +87,9 @@
 	padding: 0;
 }
 
-.speaker-controls-notes ul,
-.speaker-controls-notes li,
-.speaker-controls-notes p {
+.speaker-controls-notes .value ul,
+.speaker-controls-notes .value li,
+.speaker-controls-notes .value p {
 	font-weight: 300;
 	font-size: 1.25rem;
 	line-height: 2rem;

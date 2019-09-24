@@ -6,10 +6,11 @@
 Note:
 
 - Thank you everyone for coming
-- It's really great to see you
-- Some of you may already know me
-- I'm Angela, I work in the Luxury Product Tech Team
-- Inspired to do this lunch and learn by Rosemary in the Women in Tech slack channel
+- great to see you
+- you may already know me
+- I'm Angela
+- I work in the Luxury Product Tech Team
+- Inspired by Rosemary: Women in Tech slack channel
 - Qualifications: I'm a human, I google a lot of things
 
 ---
@@ -99,6 +100,7 @@ Note:
 - originally introduced as a simple etiquette guide for online gamers
 
 Why can't we all just follow this rule?
+
 We don't need to talk about allies and marginalisation, right?
 
 ---
