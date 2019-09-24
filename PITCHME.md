@@ -3,6 +3,15 @@
 ### What it means to be an ally, and how to get started
 25th September 2019
 
+Note:
+
+- Thank you everyone for coming
+- It's really great to see you
+- Some of you may already know me
+- I'm Angela, I work in the Luxury Product Tech Team
+- Inspired to do this lunch and learn by Rosemary in the Women in Tech slack channel
+- Qualifications: I'm a human, I google a lot of things
+
 ---
 
 @title[About]
@@ -24,8 +33,9 @@ Highly recommended reading:
 
 Note:
 
-- Original title: "... and how to do it right"
-- Lots of subjects cut out
+- Original title: "and how to do it right"
+- This is a really big topic, lots of detail cut out
+- lemme know if you want more info about something
 - Links are information only, not endorsements
 - I've read / watched all of the content shared
 
@@ -36,12 +46,45 @@ Note:
 ### What is an ally?  
 A person demonstrating active, explicit, and meaningful support for marginalised and/or vulnerable groups
 
+Note:
+
+- Different from just being 'nice'
+- It's about positive action, not ABSENCE of NEGATIVE
+- "Not racist" is not the same --> absence
+- Support, solidarity, sharing the burden
+- Doing small things to balance out unfairness
+
 ---
 
 @title[What is a marginalised group?]
 
 ### What is a marginalised group or individual?   
 Someone who is placed at a disadvantage in society, because of who they are
+
+Note:
+
+- I'm going to mostly talk about the UK
+
+Examples:
+- People of colour experience racism
+- women experience sexism or misogyny
+- LGBTQ people experience homophobia, transphobia, etc
+
+Other examples (less discussed):
+- Age-based discrimination
+- Class-based / economic status discrimination
+- Disability / chronic illness
+- Education level
+- Mental health (eg. schizophrenia)
+- Neurodivergence (eg. autism spectrum)
+
+INTRO NEXT SLIDE ...
+- A common thing you might hear
+- Why do we need all this political correctness?
+- Why do we need all these new words for things?
+- Can't we all just use our common sense?
+
+WHAT IF THERE WAS A SIMPLE RULE FOR DEALING WITH OTHER PEOPLE
 
 ---
 
@@ -50,10 +93,28 @@ Someone who is placed at a disadvantage in society, because of who they are
 
 [wheatonslaw.com](http://www.wheatonslaw.com/)
 
+Note:
+
+- Wheaton's Law created by Wil Wheaton (Star Trek)
+- originally introduced as a simple etiquette guide for online gamers
+
+Why can't we all just follow this rule?
+We don't need to talk about allies and marginalisation, right?
+
 ---
 
 ## I Think You’ll Find It’s a Bit More Complicated Than That
 ### Ben Goldacre
+
+Note:
+
+- I'm sure you're already aware
+- Life is a lot more complicated than that
+- If everyone had the same perception of what is acceptable behaviour, it would be really easy
+- Injustice and discrimination doesn't necessarily happen just because someone woke up and decided to "be a dick"
+
+INTRO NEXT SLIDE
+Before going into what it means to be an ally, I'm going to talk about some KEY CONCEPTS. The first one is INTERSECTIONALITY
 
 ---
 
@@ -63,11 +124,44 @@ Someone who is placed at a disadvantage in society, because of who they are
 
 # 👩🏼   👴🏾   🧑🏻   👩🏿   👩🏽‍🦲
 
+Note:
+
+- coined by Kimberlé Williams Crenshaw in 1989
+- often called "intersectional feminism"
+
+Everyone occupies different social and cultural SPACES OR VECTORS based on their differences (eg. age, gender, race)
+
+* Societal disadvantages (oppression)
+* Societal advantages (privilege)
+
+KEY THING is that individuals can occupy MULTIPLE VECTORS at once.
+
+* Possible to face oppression from multiple angles at once.
+* Possible to occupy PRIVILEGED SPACES and OPPRESSED SPACES simultaneously.
+
+How society treats you is based on these social vectors.
+
+* Krenshaw wrote about how white feminist discourse failed to adequately address this
+* eg. in the case of African American women --> Racism and Misogyny
+
+In the interest of staying in my lane, myself as an example:
+
+* Many privileges: White, Education, Economic Status, Age
+* Some disadvantages: LGBT (Bi person), Working Class, Chronic mental health (Bipolar), Neurodivergent (Autism Spectrum)
+
+INTRO NEXT SLIDE
+Key things to know about privilege and oppression as concepts
+
 ---
 
 @title[Privilege]
 
 # Privilege 👑
+
+Note:
+
+- coined by Kimberlé Williams Crenshaw in 1989
+- often called "intersectional feminism"
 
 ---
 
@@ -174,17 +268,9 @@ Someone who is placed at a disadvantage in society, because of who they are
 
 @title[Avoid tone policing]
 
-@snap[north span-100]
 # Avoid tone policing 👮🚨
-@snapend
 
-@snap[west span-50]
-![Tone policing](https://i.imgur.com/bSt9mId.png)
-@snapend
-
-@snap[east span-50]
-![Tone policing AND good intentions](https://i.imgur.com/NbxfT2I.png)
-@snapend
+![Tone policing Greta Thunberg](https://i.imgur.com/nKk24JU.png)
 
 ---
 
