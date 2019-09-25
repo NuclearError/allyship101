@@ -418,8 +418,11 @@ Note:
 
 AS AN ALLY
 * make an effort to use inclusive language
-* ONE EXAMPLE: "everyone" instead of "guys"
 * Do your research and try to make a habit of it
+
+EXAMPLES
+* gender inclusive: "everyone" instead of "guys"
+* autism inclusive: flag jokes/sarcasm
 
 Normalising inclusive behaviours
 * improves the work environment and culture for everyone
